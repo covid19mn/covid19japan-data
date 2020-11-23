@@ -1,5 +1,5 @@
 {
-  "name": "covid19japan-data",
+  "name": "covid19mn",
   "version": "1.0.0",
   "description": "",
   "main": "generate.js",
@@ -8,7 +8,7 @@
     "build": "npx webpack --config webpack.dev.js",
     "watch": "npx webpack --watch --config webpack.dev.js",
     "start": "node server.js",
-    "deploy": "firebase deploy --only hosting:covid19japan-data",
+    "deploy": "firebase deploy --only hosting:covid19mn",
     "deploy-functions": "cd proxy && firebase deploy --only functions",
     "generate-charts": "node generate_charts.js"
   },

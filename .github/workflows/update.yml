@@ -34,14 +34,14 @@ jobs:
         run: node publish.js
 
       - name: Send run status
-        run: curl --data-urlencode "status@output.txt" --data-urlencode "name=covid19japan-update" https://us-central1-covid19-analysis.cloudfunctions.net/status
+        run: curl --data-urlencode "status@output.txt" --data-urlencode "name=covid19mn-update" https://us-central1-covid19mn.cloudfunctions.net/status
 
       - name: Git Status
         run: git status
 
       - name: Commit files
         run: |
-          git config --local user.email alastair+automated@liquidx.net
+          git config --local user.email tuvshuud@gmail.com
           git config --local user.name "Automated Action"
           git add docs/*/*.json docs/charts/*.svg
           git commit -m "Automated Data Update" || exit 0

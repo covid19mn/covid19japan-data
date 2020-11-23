@@ -44,10 +44,9 @@ const fetchAndSummarize = async (dateString, useNewMethod) => {
   const prefectureNames = Prefectures.prefectureNamesEn()
   const regions = Prefectures.regionPrefectures()
 
-  const latestSheetId = '1vkw_Lku7F_F3F_iNmFFrDq9j7-tQ6EmZPOLpLt-s3TY'
+  const latestSheetId = '1dYsiC8UcuTKDOUoKnVh6AxiqsjP2ByXH3f1b8cLEuFc'
   const daily = await FetchSheet.fetchRows(latestSheetId, 'Sum By Day')
   const prefectures = await FetchSheet.fetchRows(latestSheetId, 'Prefecture Data')
-  const cruiseCounts = await FetchSheet.fetchRows(latestSheetId, 'Cruise Sum By Day')
   const recoveries = await FetchSheet.fetchRows(latestSheetId, 'Recoveries')
 
 
@@ -62,7 +61,7 @@ const fetchAndSummarize = async (dateString, useNewMethod) => {
         fs.writeFileSync(patientOutputFilename, JSON.stringify(patients, null, '  '))
 
         // Write daily and prefectural summary.
-        const summary = Summarize.summarize(patients, daily, prefectures, cruiseCounts, recoveries, prefectureNames, regions, lastUpdated)
+        const summary = Summarize.summarize(patients, daily, prefectures, recoveries, prefectureNames, regions, lastUpdated)
         const summaryOutputFilename = `./docs/summary/${dateString}.json`
         fs.writeFileSync(summaryOutputFilename, JSON.stringify(summary, null, '  '))
 
@@ -80,14 +79,7 @@ const fetchAndSummarize = async (dateString, useNewMethod) => {
         sheetId: latestSheetId, 
         tabs: [
           'Patient Data', 
-          'Aichi',
-          'Chiba',
-          'Fukuoka',
-          'Hokkaido',
-          'Kanagawa',
-          'Osaka',
-          'Saitama',
-          'Tokyo' 
+          'Ulaanbaatar',
         ]
       }
     ]
@@ -102,14 +94,7 @@ const fetchAndSummarize = async (dateString, useNewMethod) => {
     // OLD method
     const patientListFetches = [
       FetchPatientData.fetchPatientData(latestSheetId, 'Patient Data'),
-      FetchPatientData.fetchPatientData(latestSheetId, 'Tokyo'),
-      FetchPatientData.fetchPatientData(latestSheetId, 'Osaka'),
-      FetchPatientData.fetchPatientData(latestSheetId, 'Kanagawa'),
-      FetchPatientData.fetchPatientData(latestSheetId, 'Aichi'),
-      FetchPatientData.fetchPatientData(latestSheetId, 'Fukuoka'),
-      FetchPatientData.fetchPatientData(latestSheetId, 'Chiba'),
-      FetchPatientData.fetchPatientData(latestSheetId, 'Saitama'),
-      FetchPatientData.fetchPatientData(latestSheetId, 'Hokkaido'),
+      FetchPatientData.fetchPatientData(latestSheetId, 'Ulaanbaatar'),
     ]
     Promise.all(patientListFetches)
       .then(patientLists => {
