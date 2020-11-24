@@ -433,7 +433,7 @@ const generateRegionSummary = (prefectureSummary, regionPrefectures) => {
 }
 
 const generateDailyStatsForPrefecture = (patients, firstDay) => {
-  const lastDay = moment().utcOffset(540)
+  const lastDay = moment().utcOffset(480)
   let day = moment(firstDay)
   let dailyConfirmed= []
   let dailyDeaths = []
@@ -468,7 +468,7 @@ const generateDailyStatsForPrefecture = (patients, firstDay) => {
 const generateDailyRecoveredForPrefecture = (recoveries) => {
   const dates = _.orderBy(_.keys(recoveries))
   const firstDay = moment(dates[0])
-  const lastDay = moment().utcOffset(540)
+  const lastDay = moment().utcOffset(480)
 
   let cumulativeRecoveries = []
   let day = moment(firstDay)
@@ -493,7 +493,7 @@ const generateDailyRecoveredForPrefecture = (recoveries) => {
 const generateDailyActiveForPrefecture = (prefecture) => {
   const startDate = prefecture.dailyRecoveredStartDate
   const firstDay = moment(startDate)
-  const lastDay = moment().utcOffset(540)
+  const lastDay = moment().utcOffset(480)
 
   const dailyActives = []
   for (let daysFromToday = lastDay.diff(firstDay, 'days'); 

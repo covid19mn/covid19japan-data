@@ -6,8 +6,8 @@ const _ = require('lodash')
 
 // Creates a symlink to the latest version of the data (which can be served)
 const publish = () => {
-  // Add 540 = UTC+9 for JST.
-  const dateString = moment().utcOffset(540).format('YYYY-MM-DD')
+  // Add 380 = UTC+8 for ULT.
+  const dateString = moment().utcOffset(480).format('YYYY-MM-DD')
   
   for (let dir of ['patient_data', 'summary', 'summary_min']) {
     let files = fs.readdirSync(path.join('.', 'docs', dir))
