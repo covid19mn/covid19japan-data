@@ -80,7 +80,7 @@ const postProcessData = (rows) => {
       'ageBracket': normalizeNumber(row.ageBracket),
       'gender': normalizeGender(row.gender),
       'residence': row.residenceCityPrefecture,
-      'detectedSoumDistrict': row.detectedSoumDistrict,
+      'detectedPrefecture': row.detectedSoumDistrict,
       'detectedRegion': row.detectedRegion,
       'patientStatus': row.status,
       'notes': row.notes,
