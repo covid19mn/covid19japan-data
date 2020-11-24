@@ -10,7 +10,7 @@ const postProcessData = (rows) => {
   // Check validity of the row.
   const isValidRow = row => {
     if (!row.patientId || row.patientId == '' || typeof row === 'undefined') { return false }
-    if (!row.detectedPrefecture) { return false }
+    if (!row.detectedRegion) { return false }
     if (!row.dateAnnounced) { return false }
     return true
   }
@@ -80,8 +80,8 @@ const postProcessData = (rows) => {
       'ageBracket': normalizeNumber(row.ageBracket),
       'gender': normalizeGender(row.gender),
       'residence': row.residenceCityPrefecture,
-      'detectedCityTown': row.detectedCity,
-      'detectedPrefecture': row.detectedPrefecture,
+      'detectedSoumDistrict': row.detectedSoumDistrict,
+      'detectedRegion': row.detectedRegion,
       'patientStatus': row.status,
       'notes': row.notes,
       'knownCluster': row.knownCluster,
@@ -138,7 +138,6 @@ const postProcessData = (rows) => {
         transformedRow.deceasedDate = transformedRow.dateAnnounced
       }
     }
-
     return transformedRow
   }
 

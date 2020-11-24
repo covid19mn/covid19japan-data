@@ -1,48 +1,10 @@
-prefecture_en,prefecture_ja,region
-Aichi,"愛知県",Chubu
-Akita,"秋田県",Tohoku
-Aomori,"青森県",Tohoku
-Chiba,"千葉県",Kanto
-Ehime,"愛媛県",Shikoku
-Fukui,"福井県",Chubu
-Fukuoka,"福岡県",Kyushu
-Fukushima,"福島県",Tohoku
-Gifu,"岐阜県",Chubu
-Gunma,"群馬県",Kanto
-Hiroshima,"広島県",Chugoku
-Hokkaido,"北海道",Hokkaido
-Hyogo,"兵庫県",Kansai
-Ibaraki,"茨城県",Kanto
-Ishikawa,"石川県",Chubu
-Iwate,"岩手県",Tohoku
-Kagawa,"香川県",Shikoku
-Kagoshima,"鹿児島県",Kyushu
-Kanagawa,"神奈川県",Kanto
-Kochi,"高知県",Shikoku
-Kumamoto,"熊本県",Kyushu
-Kyoto,"京都府",Kansai
-Mie,"三重県",Kansai
-Miyagi,"宮城県",Tohoku
-Miyazaki,"宮崎県",Kyushu
-Nagano,"長野県",Chubu
-Nagasaki,"長崎県",Kyushu
-Nara,"奈良県",Kansai
-Niigata,"新潟県",Chubu
-Oita,"大分県",Kyushu
-Okayama,"岡山県",Chugoku
-Okinawa,"沖縄県",Kyushu
-Osaka,"大阪府",Kansai
-Saga,"佐賀県",Kyushu
-Saitama,"埼玉県",Kanto
-Shiga,"滋賀県",Kansai
-Shimane,"島根県",Chugoku
-Shizuoka,"静岡県",Chubu
-Tochigi,"栃木県",Kanto
-Tokushima,"徳島県",Shikoku
-Tokyo,"東京都",Kanto
-Tottori,"鳥取県",Chugoku
-Toyama,"富山県",Chubu
-Wakayama,"和歌山県",Kansai
-Yamagata,"山形県",Tohoku
-Yamaguchi,"山口県",Chugoku
-Yamanashi,"山梨県",Chubu
+prefecture_en,prefecture_mn,region
+Sukhbaatar, 'Сүхбаатар', Ulaanbaatar
+Chingeltei, 'Чингэлтэй', Ulaanbaatar
+Songinokhairkhan, 'Сонгинохайрхан', Ulaanbaatar
+Bayangol, 'Баянгол', Ulaanbaatar
+Bayanzurkh, 'Баянзүрх', Ulaanbaatar
+Khan-Uul, 'Хан-Уул', Ulaanbaatar
+Baganuur, 'Багануур', Ulaanbaatar
+Nalaikh, 'Налайх', Ulaanbaatar
+Bagakhangai, 'Багахангай', Ulaanbaatar
