@@ -44,7 +44,7 @@ const fetchAndSummarize = async (dateString, useNewMethod) => {
   const prefectureNames = Prefectures.prefectureNamesEn()
   const regions = Prefectures.regionPrefectures()
 
-  const latestSheetId = '1dYsiC8UcuTKDOUoKnVh6AxiqsjP2ByXH3f1b8cLEuFc'
+  const latestSheetId = '1pPXoVDf2LtZB-LPEYytvzd9ktkNXGFYF3tAFrKJrjPE'
   const daily = await FetchSheet.fetchRows(latestSheetId, 'Sum By Day')
   const prefectures = await FetchSheet.fetchRows(latestSheetId, 'Prefecture Data')
   const recoveries = await FetchSheet.fetchRows(latestSheetId, 'Recoveries')
