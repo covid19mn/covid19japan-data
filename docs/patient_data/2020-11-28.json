@@ -64,6 +64,17 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "6",
+    "dateAnnounced": "2020-03-18",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "knownCluster": "From Berlin Chapter Flight",
+    "prefecturePatientNumber": "Patient#6",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "TOK1",
     "dateAnnounced": "2020-11-07",
     "ageBracket": 40,
