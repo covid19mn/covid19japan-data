@@ -1,5 +1,18 @@
 [
   {
+    "patientId": "1",
+    "dateAnnounced": "2020-03-10",
+    "ageBracket": 57,
+    "gender": "M",
+    "detectedPrefecture": "Darkhan",
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Discharged",
+    "knownCluster": "Charter Flight",
+    "prefecturePatientNumber": "Patient#1",
+    "charterFlightPassenger": true,
+    "confirmedPatient": true
+  },
+  {
     "patientId": "TOK1",
     "dateAnnounced": "2020-11-07",
     "ageBracket": 40,
@@ -105,19 +118,6 @@
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Discharged",
     "prefecturePatientNumber": "UB#9",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": "1",
-    "dateAnnounced": "2020-11-10",
-    "ageBracket": 50,
-    "gender": "M",
-    "detectedPrefecture": "Darkhan",
-    "detectedRegion": "Darkhan-Uul",
-    "patientStatus": "Discharged",
-    "knownCluster": "Charter Flight",
-    "prefecturePatientNumber": "Patient#1",
-    "charterFlightPassenger": true,
     "confirmedPatient": true
   },
   {
