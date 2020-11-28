@@ -12,7 +12,7 @@
   },
   {
     "patientId": "2",
-    "dateAnnounced": "2020-03-17",
+    "dateAnnounced": "2020-03-16",
     "ageBracket": -1,
     "detectedPrefecture": "Imported",
     "detectedRegion": "Unspecified",
@@ -25,7 +25,7 @@
   },
   {
     "patientId": "3",
-    "dateAnnounced": "2020-03-17",
+    "dateAnnounced": "2020-03-16",
     "ageBracket": -1,
     "detectedPrefecture": "Imported",
     "detectedRegion": "Unspecified",
@@ -38,8 +38,9 @@
   },
   {
     "patientId": "4",
-    "dateAnnounced": "2020-03-17",
+    "dateAnnounced": "2020-03-16",
     "ageBracket": -1,
+    "gender": "F",
     "detectedPrefecture": "Imported",
     "detectedRegion": "Unspecified",
     "patientStatus": "Recovered",
@@ -51,7 +52,7 @@
   },
   {
     "patientId": "5",
-    "dateAnnounced": "2020-03-18",
+    "dateAnnounced": "2020-03-17",
     "ageBracket": 30,
     "gender": "F",
     "detectedPrefecture": "Imported",
@@ -59,7 +60,7 @@
     "patientStatus": "Recovered",
     "knownCluster": "From Berlin Chapter Flight",
     "prefecturePatientNumber": "Patient#5",
-    "sourceURL": "https://www.facebook.com/121087564973301/videos/210711093368119/",
+    "sourceURL": "https://www.facebook.com/watch/?v=137540761008688&t=107",
     "confirmedPatient": true
   },
   {
@@ -180,49 +181,6 @@
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#10",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": "10",
-    "dateAnnounced": "2020-11-14",
-    "ageBracket": -1,
-    "detectedPrefecture": "Sainshand",
-    "detectedRegion": "Dornogovi",
-    "patientStatus": "Discharged",
-    "prefecturePatientNumber": "Patient#10",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": "7",
-    "dateAnnounced": "2020-11-14",
-    "ageBracket": -1,
-    "gender": "F",
-    "detectedPrefecture": "Chingeltei",
-    "detectedRegion": "Ulaanbaatar",
-    "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "Patient#7",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": "8",
-    "dateAnnounced": "2020-11-14",
-    "ageBracket": -1,
-    "gender": "M",
-    "detectedPrefecture": "Sukhbaatar",
-    "detectedRegion": "Selenge",
-    "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "Patient#8",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": "9",
-    "dateAnnounced": "2020-11-14",
-    "ageBracket": -1,
-    "gender": "M",
-    "detectedPrefecture": "Sukhbaatar",
-    "detectedRegion": "Selenge",
-    "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "Patient#9",
     "confirmedPatient": true
   }
 ]
