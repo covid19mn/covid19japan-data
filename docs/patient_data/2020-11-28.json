@@ -16,8 +16,8 @@
     "ageBracket": -1,
     "detectedPrefecture": "Imported",
     "detectedRegion": "Unspecified",
-    "patientStatus": "Discharged",
-    "knownCluster": "Charter Flight",
+    "patientStatus": "Recovered",
+    "knownCluster": "From Berlin Chapter Flight",
     "prefecturePatientNumber": "Patient#2",
     "charterFlightPassenger": true,
     "confirmedPatient": true
@@ -28,8 +28,8 @@
     "ageBracket": -1,
     "detectedPrefecture": "Imported",
     "detectedRegion": "Unspecified",
-    "patientStatus": "Discharged",
-    "knownCluster": "Charter Flight",
+    "patientStatus": "Recovered",
+    "knownCluster": "From Berlin Chapter Flight",
     "prefecturePatientNumber": "Patient#3",
     "charterFlightPassenger": true,
     "confirmedPatient": true
@@ -40,8 +40,8 @@
     "ageBracket": -1,
     "detectedPrefecture": "Imported",
     "detectedRegion": "Unspecified",
-    "patientStatus": "Hospitalized",
-    "knownCluster": "Charter Flight",
+    "patientStatus": "Recovered",
+    "knownCluster": "From Berlin Chapter Flight",
     "prefecturePatientNumber": "Patient#4",
     "charterFlightPassenger": true,
     "confirmedPatient": true
