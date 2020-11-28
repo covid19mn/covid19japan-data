@@ -7,8 +7,42 @@
     "detectedPrefecture": "Ulaanbadrakh",
     "detectedRegion": "Dornogovi",
     "patientStatus": "Recovered",
-    "knownCluster": "Charter Flight",
     "prefecturePatientNumber": "Patient#1",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "2",
+    "dateAnnounced": "2020-03-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Discharged",
+    "knownCluster": "Charter Flight",
+    "prefecturePatientNumber": "Patient#2",
+    "charterFlightPassenger": true,
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "3",
+    "dateAnnounced": "2020-03-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Discharged",
+    "knownCluster": "Charter Flight",
+    "prefecturePatientNumber": "Patient#3",
+    "charterFlightPassenger": true,
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "4",
+    "dateAnnounced": "2020-03-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "knownCluster": "Charter Flight",
+    "prefecturePatientNumber": "Patient#4",
     "charterFlightPassenger": true,
     "confirmedPatient": true
   },
@@ -121,32 +155,6 @@
     "confirmedPatient": true
   },
   {
-    "patientId": "2",
-    "dateAnnounced": "2020-11-10",
-    "ageBracket": 40,
-    "gender": "M",
-    "detectedPrefecture": "Sainshand",
-    "detectedRegion": "Dornogovi",
-    "patientStatus": "Discharged",
-    "knownCluster": "Charter Flight",
-    "prefecturePatientNumber": "Patient#2",
-    "charterFlightPassenger": true,
-    "confirmedPatient": true
-  },
-  {
-    "patientId": "3",
-    "dateAnnounced": "2020-11-10",
-    "ageBracket": 40,
-    "gender": "M",
-    "detectedPrefecture": "Songinokhairkhan",
-    "detectedRegion": "Ulaanbaatar",
-    "patientStatus": "Discharged",
-    "knownCluster": "Charter Flight",
-    "prefecturePatientNumber": "Patient#3",
-    "charterFlightPassenger": true,
-    "confirmedPatient": true
-  },
-  {
     "patientId": "TOK10",
     "dateAnnounced": "2020-11-10",
     "ageBracket": 60,
@@ -156,19 +164,6 @@
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#10",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": "4",
-    "dateAnnounced": "2020-11-11",
-    "ageBracket": 50,
-    "gender": "M",
-    "detectedPrefecture": "Bayangol",
-    "detectedRegion": "Ulaanbaatar",
-    "patientStatus": "Hospitalized",
-    "knownCluster": "Charter Flight",
-    "prefecturePatientNumber": "Patient#4",
-    "charterFlightPassenger": true,
     "confirmedPatient": true
   },
   {
@@ -190,9 +185,7 @@
     "detectedPrefecture": "Chingeltei",
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
-    "knownCluster": "Charter Flight",
     "prefecturePatientNumber": "Patient#5",
-    "charterFlightPassenger": true,
     "confirmedPatient": true
   },
   {
@@ -203,9 +196,7 @@
     "detectedPrefecture": "Chingeltei",
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
-    "knownCluster": "Charter Flight",
     "prefecturePatientNumber": "Patient#6",
-    "charterFlightPassenger": true,
     "confirmedPatient": true
   },
   {
@@ -216,9 +207,7 @@
     "detectedPrefecture": "Chingeltei",
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
-    "knownCluster": "Charter Flight",
     "prefecturePatientNumber": "Patient#7",
-    "charterFlightPassenger": true,
     "confirmedPatient": true
   },
   {
