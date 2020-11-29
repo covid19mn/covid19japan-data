@@ -195,6 +195,231 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "650",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#650",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "651",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#651",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "652",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#652",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "653",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#653",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "654",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#654",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "655",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#655",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "656",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#656",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "657",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#657",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "658",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#658",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "659",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#659",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "660",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#660",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "661",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#661",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "662",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#662",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "663",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#663",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "664",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#664",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "665",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#665",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "666",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#666",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "667",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#667",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "668",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#668",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "669",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#669",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "670",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#670",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "671",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#671",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "672",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#672",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK64",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#64",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK65",
+    "dateAnnounced": "2020-11-27",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#65",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "674",
     "dateAnnounced": "2020-11-28",
     "ageBracket": -1,
