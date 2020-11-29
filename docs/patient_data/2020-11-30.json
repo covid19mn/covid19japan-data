@@ -75,6 +75,46 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "383",
+    "dateAnnounced": "2020-11-12",
+    "ageBracket": -1,
+    "gender": "F",
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#383",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "407",
+    "dateAnnounced": "2020-11-13",
+    "ageBracket": -1,
+    "gender": "F",
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#407",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "408",
+    "dateAnnounced": "2020-11-13",
+    "ageBracket": -1,
+    "gender": "F",
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#408",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "409",
+    "dateAnnounced": "2020-11-13",
+    "ageBracket": -1,
+    "gender": "F",
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#409",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "429",
     "dateAnnounced": "2020-11-16",
     "ageBracket": -1,
