@@ -193,5 +193,13 @@
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#10",
     "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK75",
+    "dateAnnounced": "2020-11-29",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "prefecturePatientNumber": "UB#75",
+    "confirmedPatient": true
   }
 ]
