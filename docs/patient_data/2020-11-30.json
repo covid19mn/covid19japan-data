@@ -195,6 +195,1275 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "426",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#426",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "427",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#427",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "428",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#428",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "429",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#429",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "430",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#430",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "431",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#431",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "432",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#432",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "433",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#433",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "434",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#434",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "435",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#435",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "436",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#436",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "437",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#437",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "438",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#438",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "439",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#439",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "440",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#440",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "441",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#441",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "442",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#442",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "443",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#443",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "444",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#444",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "445",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#445",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "446",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#446",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "447",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#447",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "448",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#448",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "449",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#449",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "450",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#450",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "451",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#451",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "452",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#452",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "453",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Govisumber",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#453",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK11",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#11",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK12",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#12",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK13",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#13",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK14",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#14",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK15",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#15",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "460",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#460",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "461",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#461",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "462",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#462",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "463",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#463",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "464",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#464",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "465",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#465",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "466",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#466",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "467",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#467",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "468",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#468",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "469",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#469",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "470",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#470",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "471",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#471",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "472",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#472",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "473",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#473",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "474",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#474",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "475",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#475",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "476",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#476",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "477",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#477",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "478",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#478",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "479",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#479",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "480",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#480",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "481",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#481",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "482",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#482",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "483",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#483",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "484",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#484",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "485",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#485",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "486",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#486",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "487",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#487",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "488",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#488",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "489",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#489",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "490",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#490",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "491",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#491",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "492",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#492",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "493",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#493",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "494",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#494",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "495",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#495",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "496",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#496",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "497",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#497",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "498",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#498",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "499",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#499",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "500",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#500",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK16",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#16",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK17",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#17",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK18",
+    "dateAnnounced": "2020-11-19",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#18",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "501",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#501",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "502",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#502",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "503",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#503",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "504",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#504",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "505",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#505",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "506",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#506",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "507",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#507",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "508",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#508",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "509",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#509",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "510",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#510",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "511",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#511",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "512",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#512",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "513",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#513",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "514",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "515",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#515",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "516",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#516",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "517",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#517",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "518",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#518",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "519",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#519",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "520",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#520",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "521",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#521",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "522",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#522",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "523",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#523",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "524",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#524",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK19",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#19",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK20",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#20",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK21",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#21",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK22",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#22",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK23",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#23",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK24",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#24",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK25",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#25",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK26",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#26",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK27",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#27",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK28",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#28",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK29",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#29",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK30",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#30",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK31",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#31",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK32",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#32",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK33",
+    "dateAnnounced": "2020-11-20",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#33",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "525",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#525",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "526",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#526",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "527",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#527",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "528",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#528",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "529",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#529",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "530",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#530",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "531",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#531",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "532",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#532",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "533",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#533",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "535",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#535",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "536",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#536",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "537",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#537",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "538",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#538",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "539",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#539",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "540",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#540",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "541",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#541",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "542",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#542",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "543",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#543",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "544",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#544",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK34",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#34",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK35",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#35",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK36",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#36",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK37",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#37",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK38",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#38",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "545",
     "dateAnnounced": "2020-11-22",
     "ageBracket": -1,
