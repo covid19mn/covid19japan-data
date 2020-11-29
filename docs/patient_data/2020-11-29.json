@@ -75,18 +75,6 @@
     "confirmedPatient": true
   },
   {
-    "patientId": "TOK1",
-    "dateAnnounced": "2020-11-07",
-    "ageBracket": 40,
-    "gender": "M",
-    "residence": "Ulaanbaatar",
-    "detectedPrefecture": "Chingeltei",
-    "detectedRegion": "Ulaanbaatar",
-    "patientStatus": "Recovered",
-    "prefecturePatientNumber": "UB#1",
-    "confirmedPatient": true
-  },
-  {
     "patientId": "TOK2",
     "dateAnnounced": "2020-11-07",
     "ageBracket": 30,
@@ -192,6 +180,26 @@
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#10",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK1",
+    "dateAnnounced": "2020-11-11",
+    "ageBracket": 40,
+    "gender": "M",
+    "residence": "Ulaanbaatar",
+    "detectedPrefecture": "Chingeltei",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Recovered",
+    "prefecturePatientNumber": "UB#1",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK75",
+    "dateAnnounced": "2020-11-29",
+    "ageBracket": -1,
+    "detectedRegion": "Ulaanbaatar",
+    "prefecturePatientNumber": "UB#75",
     "confirmedPatient": true
   }
 ]
