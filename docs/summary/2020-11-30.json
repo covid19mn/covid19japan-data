@@ -1667,7 +1667,7 @@
       "name": "Battsengel"
     },
     {
-      "confirmed": 1,
+      "confirmed": 2,
       "dailyConfirmedCount": [
         0,
         0,
@@ -1695,7 +1695,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         0,
         0
@@ -1742,7 +1742,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 1,
+      "active": 2,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -2352,14 +2352,14 @@
       "name": "Darkhan-Uul"
     },
     {
-      "confirmed": 25,
+      "confirmed": 26,
       "newlyConfirmed": 0,
       "yesterdayConfirmed": 1,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 25,
+      "active": 26,
       "dailyConfirmedCount": [
         0,
         0,
@@ -2387,7 +2387,7 @@
         2,
         0,
         0,
-        0,
+        1,
         8,
         2,
         0
@@ -3351,8 +3351,8 @@
       "recoveredCumulativeAvg7d": 2
     },
     {
-      "confirmed": 25,
-      "confirmedCumulative": 320,
+      "confirmed": 26,
+      "confirmedCumulative": 321,
       "deceased": 0,
       "deceasedCumulative": 0,
       "reportedDeceased": 0,
@@ -3363,11 +3363,11 @@
       "criticalCumulative": 3,
       "tested": -9993,
       "testedCumulative": 29623,
-      "active": 26,
-      "activeCumulative": 318,
+      "active": 27,
+      "activeCumulative": 319,
       "date": "2020-11-27",
       "deaths": 0,
-      "confirmedAvg3d": 21,
+      "confirmedAvg3d": 22,
       "confirmedAvg7d": 25,
       "confirmedCumulativeAvg3d": 299,
       "confirmedCumulativeAvg7d": 250,
@@ -3386,7 +3386,7 @@
     },
     {
       "confirmed": 22,
-      "confirmedCumulative": 342,
+      "confirmedCumulative": 343,
       "deceased": 0,
       "deceasedCumulative": 0,
       "reportedDeceased": 0,
@@ -3398,7 +3398,7 @@
       "tested": -743,
       "testedCumulative": 28880,
       "active": 22,
-      "activeCumulative": 340,
+      "activeCumulative": 341,
       "date": "2020-11-28",
       "deaths": 0,
       "confirmedAvg3d": 20,
@@ -3420,7 +3420,7 @@
     },
     {
       "confirmed": 24,
-      "confirmedCumulative": 366,
+      "confirmedCumulative": 367,
       "deceased": 0,
       "deceasedCumulative": 0,
       "reportedDeceased": 0,
@@ -3432,13 +3432,13 @@
       "tested": -7587,
       "testedCumulative": 21293,
       "active": 19,
-      "activeCumulative": 359,
+      "activeCumulative": 360,
       "date": "2020-11-29",
       "deaths": 0,
-      "confirmedAvg3d": 23,
+      "confirmedAvg3d": 24,
       "confirmedAvg7d": 22,
-      "confirmedCumulativeAvg3d": 342,
-      "confirmedCumulativeAvg7d": 297,
+      "confirmedCumulativeAvg3d": 343,
+      "confirmedCumulativeAvg7d": 298,
       "deceasedAvg3d": 0,
       "deceasedAvg7d": 0,
       "deceasedCumulativeAvg3d": 0,
@@ -3454,7 +3454,7 @@
     },
     {
       "confirmed": 7,
-      "confirmedCumulative": 373,
+      "confirmedCumulative": 374,
       "deceased": 0,
       "deceasedCumulative": 0,
       "reportedDeceased": 0,
@@ -3466,12 +3466,12 @@
       "tested": -411,
       "testedCumulative": 20882,
       "active": 7,
-      "activeCumulative": 366,
+      "activeCumulative": 367,
       "date": "2020-11-30",
       "deaths": 0,
       "confirmedAvg3d": 17,
       "confirmedAvg7d": 21,
-      "confirmedCumulativeAvg3d": 360,
+      "confirmedCumulativeAvg3d": 361,
       "confirmedCumulativeAvg7d": 319,
       "deceasedAvg3d": 0,
       "deceasedAvg7d": 0,
@@ -3487,5 +3487,5 @@
       "recoveredCumulativeAvg7d": 3
     }
   ],
-  "updated": "2020-11-30T14:47:47+09:00"
+  "updated": "2020-11-30T15:33:07+09:00"
 }
