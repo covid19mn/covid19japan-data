@@ -75,6 +75,17 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "354",
+    "dateAnnounced": "2020-11-06",
+    "ageBracket": -1,
+    "gender": "F",
+    "detectedPrefecture": "HUSUT",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#354",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "TOK1",
     "dateAnnounced": "2020-11-10",
     "ageBracket": -1,
