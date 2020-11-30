@@ -620,7 +620,7 @@
       "name": "Imported"
     },
     {
-      "confirmed": 178,
+      "confirmed": 179,
       "dailyConfirmedCount": [
         0,
         0,
@@ -643,7 +643,7 @@
         17,
         12,
         5,
-        40,
+        41,
         0,
         26,
         20,
@@ -695,7 +695,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 178,
+      "active": 179,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -703,7 +703,7 @@
       "name": "undefined"
     },
     {
-      "confirmed": 43,
+      "confirmed": 42,
       "dailyConfirmedCount": [
         0,
         0,
@@ -726,7 +726,7 @@
         1,
         5,
         0,
-        4,
+        3,
         0,
         0,
         0,
@@ -778,7 +778,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 43,
+      "active": 42,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -2635,14 +2635,14 @@
       "name": "Ulaanbaatar"
     },
     {
-      "confirmed": 45,
+      "confirmed": 44,
       "newlyConfirmed": 0,
       "yesterdayConfirmed": 9,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 45,
+      "active": 44,
       "dailyConfirmedCount": [
         0,
         0,
@@ -2665,7 +2665,7 @@
         5,
         5,
         0,
-        4,
+        3,
         0,
         0,
         0,
