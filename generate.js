@@ -15,8 +15,8 @@ const generateLastUpdated = async (patients) => {
   if (existingPatientsData) {
     const existingPatients = JSON.parse(existingPatientsData)
     if (existingPatients && existingPatients.length && existingPatients.length != patients.length) {
-      // Add 540 = UTC+9 for JST.
-      lastUpdated = moment().utcOffset(540).format()
+      // Add 480 = UTC+8 for JST.
+      lastUpdated = moment().utcOffset(480).format()
       console.log(`Patients data updated. New: ${patients.length} Old: ${existingPatients.length}`)
     }
   }
@@ -35,7 +35,7 @@ const generateLastUpdated = async (patients) => {
 
   // If it's still null, we don't know. So just use the latest timestamp.
   if (lastUpdated == null) {
-    lastUpdated = moment().utcOffset(540).format()
+    lastUpdated = moment().utcOffset(480).format()
   }
   return lastUpdated
 }
