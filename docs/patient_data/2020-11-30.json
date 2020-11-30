@@ -75,6 +75,1742 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "10",
+    "dateAnnounced": "2020-03-21",
+    "ageBracket": -1,
+    "gender": "M",
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#10",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "7",
+    "dateAnnounced": "2020-03-21",
+    "ageBracket": -1,
+    "gender": "F",
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#7",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "8",
+    "dateAnnounced": "2020-03-21",
+    "ageBracket": -1,
+    "gender": "F",
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#8",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "9",
+    "dateAnnounced": "2020-03-21",
+    "ageBracket": -1,
+    "gender": "M",
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#9",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "11",
+    "dateAnnounced": "2020-03-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#11",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "12",
+    "dateAnnounced": "2020-03-28",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#12",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "13",
+    "dateAnnounced": "2020-04-01",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#13",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "14",
+    "dateAnnounced": "2020-04-01",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#14",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "15",
+    "dateAnnounced": "2020-04-06",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#15",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "16",
+    "dateAnnounced": "2020-04-08",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#16",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "17",
+    "dateAnnounced": "2020-04-13",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#17",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "18",
+    "dateAnnounced": "2020-04-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#18",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "19",
+    "dateAnnounced": "2020-04-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#19",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "20",
+    "dateAnnounced": "2020-04-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#20",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "21",
+    "dateAnnounced": "2020-04-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#21",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "22",
+    "dateAnnounced": "2020-04-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#22",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "23",
+    "dateAnnounced": "2020-04-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#23",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "24",
+    "dateAnnounced": "2020-04-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#24",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "25",
+    "dateAnnounced": "2020-04-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#25",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "26",
+    "dateAnnounced": "2020-04-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#26",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "27",
+    "dateAnnounced": "2020-04-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#27",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "28",
+    "dateAnnounced": "2020-04-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#28",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "29",
+    "dateAnnounced": "2020-04-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#29",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "30",
+    "dateAnnounced": "2020-04-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#30",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "31",
+    "dateAnnounced": "2020-04-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#31",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "32",
+    "dateAnnounced": "2020-04-19",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#32",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "33",
+    "dateAnnounced": "2020-04-20",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#33",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "34",
+    "dateAnnounced": "2020-04-21",
+    "ageBracket": -1,
+    "gender": "M",
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#34",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "35",
+    "dateAnnounced": "2020-04-22",
+    "ageBracket": -1,
+    "gender": "F",
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#35",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "36",
+    "dateAnnounced": "2020-04-24",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#36",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "37",
+    "dateAnnounced": "2020-04-25",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#37",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "38",
+    "dateAnnounced": "2020-04-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#38",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "39",
+    "dateAnnounced": "2020-05-02",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#39",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "40",
+    "dateAnnounced": "2020-05-04",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#40",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "41",
+    "dateAnnounced": "2020-05-05",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#41",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "42",
+    "dateAnnounced": "2020-05-08",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#42",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "43",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#43",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "44",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#44",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "45",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#45",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "46",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#46",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "47",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#47",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "48",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#48",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "49",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#49",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "50",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#50",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "51",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#51",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "52",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#52",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "53",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#53",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "54",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#54",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "55",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#55",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "56",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#56",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "57",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#57",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "58",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#58",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "59",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#59",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "60",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#60",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "61",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#61",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "62",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#62",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "63",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#63",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "64",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#64",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "65",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#65",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "66",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#66",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "67",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#67",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "68",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#68",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "69",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#69",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "70",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#70",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "71",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#71",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "72",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#72",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "73",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#73",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "74",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#74",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "75",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#75",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "76",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#76",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "77",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#77",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "78",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#78",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "79",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#79",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "80",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#80",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "81",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#81",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "82",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#82",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "83",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#83",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "84",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#84",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "85",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#85",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "86",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#86",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "87",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#87",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "88",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#88",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "89",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#89",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "90",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#90",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "91",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#91",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "92",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#92",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "93",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#93",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "94",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#94",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "95",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#95",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "96",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#96",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "97",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#97",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "98",
+    "dateAnnounced": "2020-05-14",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#98",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "100",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#100",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "101",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#101",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "102",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#102",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "103",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#103",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "104",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#104",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "105",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#105",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "106",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#106",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "107",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#107",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "108",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#108",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "109",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#109",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "110",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#110",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "111",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#111",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "112",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#112",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "113",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#113",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "114",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#114",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "115",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#115",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "116",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#116",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "117",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#117",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "118",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#118",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "119",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#119",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "120",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#120",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "121",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#121",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "122",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#122",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "123",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#123",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "124",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#124",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "125",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#125",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "126",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#126",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "127",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#127",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "128",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#128",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "129",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#129",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "130",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#130",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "131",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#131",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "132",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#132",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "133",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#133",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "134",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#134",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "135",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#135",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "99",
+    "dateAnnounced": "2020-05-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#99",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "136",
+    "dateAnnounced": "2020-05-17",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#136",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "137",
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#137",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "138",
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#138",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "139",
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#139",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "140",
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#140",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "141",
+    "dateAnnounced": "2020-05-22",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#141",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "142",
+    "dateAnnounced": "2020-05-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#142",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "143",
+    "dateAnnounced": "2020-05-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#143",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "144",
+    "dateAnnounced": "2020-05-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#144",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "145",
+    "dateAnnounced": "2020-05-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#145",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "146",
+    "dateAnnounced": "2020-05-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#146",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "147",
+    "dateAnnounced": "2020-05-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#147",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "148",
+    "dateAnnounced": "2020-05-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#148",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "149",
+    "dateAnnounced": "2020-05-28",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#149",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "150",
+    "dateAnnounced": "2020-05-28",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#150",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "151",
+    "dateAnnounced": "2020-05-28",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#151",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "152",
+    "dateAnnounced": "2020-05-28",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#152",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "153",
+    "dateAnnounced": "2020-05-28",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#153",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "154",
+    "dateAnnounced": "2020-05-28",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#154",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "155",
+    "dateAnnounced": "2020-05-28",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#155",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "156",
+    "dateAnnounced": "2020-05-28",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#156",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "157",
+    "dateAnnounced": "2020-05-28",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#157",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "158",
+    "dateAnnounced": "2020-05-28",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#158",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "159",
+    "dateAnnounced": "2020-05-28",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#159",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "160",
+    "dateAnnounced": "2020-05-28",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#160",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "161",
+    "dateAnnounced": "2020-05-28",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#161",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "162",
+    "dateAnnounced": "2020-05-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#162",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "163",
+    "dateAnnounced": "2020-05-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#163",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "164",
+    "dateAnnounced": "2020-05-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#164",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "165",
+    "dateAnnounced": "2020-05-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#165",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "166",
+    "dateAnnounced": "2020-05-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#166",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "167",
+    "dateAnnounced": "2020-05-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#167",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "168",
+    "dateAnnounced": "2020-05-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#168",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "169",
+    "dateAnnounced": "2020-05-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#169",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "170",
+    "dateAnnounced": "2020-05-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#170",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "171",
+    "dateAnnounced": "2020-05-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#171",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "172",
+    "dateAnnounced": "2020-05-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#172",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "173",
+    "dateAnnounced": "2020-05-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#173",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "174",
+    "dateAnnounced": "2020-05-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#174",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "175",
+    "dateAnnounced": "2020-05-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#175",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "176",
+    "dateAnnounced": "2020-05-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#176",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "177",
+    "dateAnnounced": "2020-05-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#177",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "178",
+    "dateAnnounced": "2020-05-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#178",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "179",
+    "dateAnnounced": "2020-05-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#179",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "354",
     "dateAnnounced": "2020-11-06",
     "ageBracket": 27,
@@ -161,10 +1897,11 @@
   {
     "patientId": "407",
     "dateAnnounced": "2020-11-13",
-    "ageBracket": -1,
+    "ageBracket": 74,
     "gender": "F",
     "detectedRegion": "Selenge",
     "patientStatus": "Hospitalized",
+    "notes": "Emee",
     "prefecturePatientNumber": "Patient#407",
     "confirmedPatient": true
   },
@@ -175,6 +1912,7 @@
     "gender": "F",
     "detectedRegion": "Selenge",
     "patientStatus": "Hospitalized",
+    "notes": "Ber",
     "prefecturePatientNumber": "Patient#408",
     "confirmedPatient": true
   },
@@ -185,7 +1923,32 @@
     "gender": "F",
     "detectedRegion": "Selenge",
     "patientStatus": "Hospitalized",
+    "notes": "Ach huu",
     "prefecturePatientNumber": "Patient#409",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "410",
+    "dateAnnounced": "2020-11-13",
+    "ageBracket": -1,
+    "gender": "F",
+    "detectedPrefecture": "HUSUT",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "notes": "Emch",
+    "prefecturePatientNumber": "Patient#410",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "411",
+    "dateAnnounced": "2020-11-13",
+    "ageBracket": -1,
+    "gender": "M",
+    "detectedPrefecture": "HUSUT",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "notes": "Ajiltan",
+    "prefecturePatientNumber": "Patient#411",
     "confirmedPatient": true
   },
   {
