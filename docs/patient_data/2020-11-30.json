@@ -3183,16 +3183,6 @@
     "confirmedPatient": true
   },
   {
-    "patientId": "315",
-    "dateAnnounced": "2020-10-08",
-    "ageBracket": -1,
-    "detectedPrefecture": "Imported",
-    "detectedRegion": "Other",
-    "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "Patient#315",
-    "confirmedPatient": true
-  },
-  {
     "patientId": "316",
     "dateAnnounced": "2020-10-11",
     "ageBracket": -1,
@@ -3204,7 +3194,7 @@
   },
   {
     "patientId": "317",
-    "dateAnnounced": "2020-10-11",
+    "dateAnnounced": "2020-10-12",
     "ageBracket": -1,
     "detectedPrefecture": "Imported",
     "detectedRegion": "Other",
@@ -3214,7 +3204,7 @@
   },
   {
     "patientId": "318",
-    "dateAnnounced": "2020-10-13",
+    "dateAnnounced": "2020-10-12",
     "ageBracket": -1,
     "detectedPrefecture": "Imported",
     "detectedRegion": "Other",
@@ -3233,58 +3223,8 @@
     "confirmedPatient": true
   },
   {
-    "patientId": "328",
-    "dateAnnounced": "2020-10-19",
-    "ageBracket": -1,
-    "detectedPrefecture": "Imported",
-    "detectedRegion": "Other",
-    "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "Patient#328",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": "329",
-    "dateAnnounced": "2020-10-19",
-    "ageBracket": -1,
-    "detectedPrefecture": "Imported",
-    "detectedRegion": "Other",
-    "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "Patient#329",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": "330",
-    "dateAnnounced": "2020-10-19",
-    "ageBracket": -1,
-    "detectedPrefecture": "Imported",
-    "detectedRegion": "Other",
-    "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "Patient#330",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": "331",
-    "dateAnnounced": "2020-10-20",
-    "ageBracket": -1,
-    "detectedPrefecture": "Imported",
-    "detectedRegion": "Other",
-    "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "Patient#331",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": "332",
-    "dateAnnounced": "2020-10-20",
-    "ageBracket": -1,
-    "detectedPrefecture": "Imported",
-    "detectedRegion": "Other",
-    "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "Patient#332",
-    "confirmedPatient": true
-  },
-  {
     "patientId": "320",
-    "dateAnnounced": "2020-10-22",
+    "dateAnnounced": "2020-10-13",
     "ageBracket": -1,
     "detectedPrefecture": "Imported",
     "detectedRegion": "Other",
@@ -3294,7 +3234,7 @@
   },
   {
     "patientId": "321",
-    "dateAnnounced": "2020-10-22",
+    "dateAnnounced": "2020-10-18",
     "ageBracket": -1,
     "detectedPrefecture": "Imported",
     "detectedRegion": "Other",
@@ -3304,7 +3244,7 @@
   },
   {
     "patientId": "322",
-    "dateAnnounced": "2020-10-22",
+    "dateAnnounced": "2020-10-18",
     "ageBracket": -1,
     "detectedPrefecture": "Imported",
     "detectedRegion": "Other",
@@ -3314,7 +3254,7 @@
   },
   {
     "patientId": "323",
-    "dateAnnounced": "2020-10-22",
+    "dateAnnounced": "2020-10-18",
     "ageBracket": -1,
     "detectedPrefecture": "Imported",
     "detectedRegion": "Other",
@@ -3324,7 +3264,7 @@
   },
   {
     "patientId": "324",
-    "dateAnnounced": "2020-10-22",
+    "dateAnnounced": "2020-10-18",
     "ageBracket": -1,
     "detectedPrefecture": "Imported",
     "detectedRegion": "Other",
@@ -3334,7 +3274,7 @@
   },
   {
     "patientId": "325",
-    "dateAnnounced": "2020-10-22",
+    "dateAnnounced": "2020-10-20",
     "ageBracket": -1,
     "detectedPrefecture": "Imported",
     "detectedRegion": "Other",
@@ -3344,7 +3284,7 @@
   },
   {
     "patientId": "326",
-    "dateAnnounced": "2020-10-22",
+    "dateAnnounced": "2020-10-20",
     "ageBracket": -1,
     "detectedPrefecture": "Imported",
     "detectedRegion": "Other",
@@ -3354,12 +3294,62 @@
   },
   {
     "patientId": "327",
-    "dateAnnounced": "2020-10-22",
+    "dateAnnounced": "2020-10-21",
     "ageBracket": -1,
     "detectedPrefecture": "Imported",
     "detectedRegion": "Other",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#327",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "328",
+    "dateAnnounced": "2020-10-22",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#328",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "329",
+    "dateAnnounced": "2020-10-24",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#329",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "330",
+    "dateAnnounced": "2020-10-24",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#330",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "331",
+    "dateAnnounced": "2020-10-24",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#331",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "332",
+    "dateAnnounced": "2020-10-24",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#332",
     "confirmedPatient": true
   },
   {
@@ -3390,6 +3380,26 @@
     "detectedRegion": "Other",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#335",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "336",
+    "dateAnnounced": "2020-10-24",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#336",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "337",
+    "dateAnnounced": "2020-10-24",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#337",
     "confirmedPatient": true
   },
   {
@@ -3564,6 +3574,16 @@
     "patientStatus": "Hospitalized",
     "notes": "Deli - UB",
     "prefecturePatientNumber": "Patient#353",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "315",
+    "dateAnnounced": "2020-11-06",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#315",
     "confirmedPatient": true
   },
   {
