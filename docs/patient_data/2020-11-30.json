@@ -139,16 +139,6 @@
     "confirmedPatient": true
   },
   {
-    "patientId": "383",
-    "dateAnnounced": "2020-11-12",
-    "ageBracket": -1,
-    "gender": "F",
-    "detectedRegion": "Selenge",
-    "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "Patient#383",
-    "confirmedPatient": true
-  },
-  {
     "patientId": "TOK5",
     "dateAnnounced": "2020-11-12",
     "ageBracket": -1,
