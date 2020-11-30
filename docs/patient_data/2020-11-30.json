@@ -261,6 +261,17 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "432",
+    "dateAnnounced": "2020-11-17",
+    "ageBracket": -1,
+    "gender": "F",
+    "detectedPrefecture": "Darkhan",
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#432",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "433",
     "dateAnnounced": "2020-11-17",
     "ageBracket": -1,
