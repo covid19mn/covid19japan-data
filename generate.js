@@ -28,7 +28,7 @@ const generateLastUpdated = async (patients) => {
       const existingSummary = JSON.parse(existingSummaryData)
       if (existingSummary && existingSummary.updated && typeof existingSummary.updated === 'string') {
         lastUpdated = existingSummary.updated
-        //console.log(`Pulling lastUpdated from summary/latest.json: ${lastUpdated}`)
+        console.log(`Pulling lastUpdated from summary/latest.json: ${lastUpdated}`)
       }
     }
   }
