@@ -77,7 +77,7 @@
   {
     "patientId": "354",
     "dateAnnounced": "2020-11-06",
-    "ageBracket": -1,
+    "ageBracket": 27,
     "gender": "F",
     "detectedPrefecture": "HUSUT",
     "detectedRegion": "Unspecified",
@@ -104,6 +104,18 @@
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#2",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "380",
+    "dateAnnounced": "2020-11-11",
+    "ageBracket": 31,
+    "gender": "F",
+    "detectedPrefecture": "HUSUT",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "notes": "Suvilagch",
+    "prefecturePatientNumber": "Patient#380",
     "confirmedPatient": true
   },
   {
@@ -235,6 +247,17 @@
     "detectedRegion": "Selenge",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#430",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "431",
+    "dateAnnounced": "2020-11-16",
+    "ageBracket": -1,
+    "gender": "F",
+    "detectedPrefecture": "Enhsaran",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#431",
     "confirmedPatient": true
   },
   {
@@ -528,6 +551,16 @@
     "detectedRegion": "Govisumber",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#462",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "468",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedPrefecture": "HUSUT",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#468",
     "confirmedPatient": true
   },
   {
@@ -1464,6 +1497,16 @@
     "detectedRegion": "Orkhon",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#542",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "543",
+    "dateAnnounced": "2020-11-21",
+    "ageBracket": -1,
+    "detectedPrefecture": "Enhsaran",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#543",
     "confirmedPatient": true
   },
   {
