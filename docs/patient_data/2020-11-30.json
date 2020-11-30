@@ -268,6 +268,7 @@
     "detectedPrefecture": "Imported",
     "detectedRegion": "Unspecified",
     "patientStatus": "Hospitalized",
+    "notes": "Tir mashinii jolooch",
     "prefecturePatientNumber": "Patient#433",
     "confirmedPatient": true
   },
@@ -279,6 +280,7 @@
     "detectedPrefecture": "Imported",
     "detectedRegion": "Unspecified",
     "patientStatus": "Hospitalized",
+    "notes": "Tir mashinii jolooch",
     "prefecturePatientNumber": "Patient#434",
     "confirmedPatient": true
   },
@@ -551,6 +553,56 @@
     "detectedRegion": "Govisumber",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#462",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "463",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedPrefecture": "Enhsaran",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#463",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "464",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedPrefecture": "Enhsaran",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#464",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "465",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedPrefecture": "Enhsaran",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#465",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "466",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedPrefecture": "Enhsaran",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#466",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "467",
+    "dateAnnounced": "2020-11-18",
+    "ageBracket": -1,
+    "detectedPrefecture": "Enhsaran",
+    "detectedRegion": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#467",
     "confirmedPatient": true
   },
   {
