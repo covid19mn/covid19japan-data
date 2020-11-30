@@ -1991,6 +1991,158 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "198",
+    "dateAnnounced": "2020-06-18",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#198",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "199",
+    "dateAnnounced": "2020-06-18",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#199",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "200",
+    "dateAnnounced": "2020-06-18",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#200",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "201",
+    "dateAnnounced": "2020-06-18",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#201",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "202",
+    "dateAnnounced": "2020-06-19",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#202",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "203",
+    "dateAnnounced": "2020-06-19",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#203",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "204",
+    "dateAnnounced": "2020-06-19",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#204",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "205",
+    "dateAnnounced": "2020-06-21",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#205",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "206",
+    "dateAnnounced": "2020-06-21",
+    "ageBracket": -1,
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#206",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "207",
+    "dateAnnounced": "2020-06-22",
+    "ageBracket": -1,
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#207",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "208",
+    "dateAnnounced": "2020-06-22",
+    "ageBracket": -1,
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#208",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "209",
+    "dateAnnounced": "2020-06-22",
+    "ageBracket": -1,
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#209",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "210",
+    "dateAnnounced": "2020-06-22",
+    "ageBracket": -1,
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#210",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "211",
+    "dateAnnounced": "2020-06-22",
+    "ageBracket": -1,
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#211",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "212",
+    "dateAnnounced": "2020-06-22",
+    "ageBracket": -1,
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#212",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "213",
+    "dateAnnounced": "2020-06-22",
+    "ageBracket": -1,
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#213",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "354",
     "dateAnnounced": "2020-11-06",
     "ageBracket": 27,
@@ -2183,6 +2335,18 @@
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#9",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "424",
+    "dateAnnounced": "2020-11-15",
+    "ageBracket": -1,
+    "gender": "M",
+    "detectedPrefecture": "HUSUT",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "notes": "Emch",
+    "prefecturePatientNumber": "Patient#424",
     "confirmedPatient": true
   },
   {
@@ -3653,7 +3817,7 @@
     "patientId": "TOK36",
     "dateAnnounced": "2020-11-21",
     "ageBracket": -1,
-    "detectedPrefecture": "Suhbaatar",
+    "detectedPrefecture": "Sukhbaatard",
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#36",
@@ -3663,7 +3827,7 @@
     "patientId": "TOK37",
     "dateAnnounced": "2020-11-21",
     "ageBracket": -1,
-    "detectedPrefecture": "Suhbaatar",
+    "detectedPrefecture": "Sukhbaatard",
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#37",
@@ -3673,7 +3837,7 @@
     "patientId": "TOK38",
     "dateAnnounced": "2020-11-21",
     "ageBracket": -1,
-    "detectedPrefecture": "Suhbaatar",
+    "detectedPrefecture": "Sukhbaatard",
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#38",
@@ -4093,7 +4257,7 @@
     "patientId": "TOK39",
     "dateAnnounced": "2020-11-22",
     "ageBracket": -1,
-    "detectedPrefecture": "Suhbaatar",
+    "detectedPrefecture": "Sukhbaatard",
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#39",
@@ -4103,7 +4267,7 @@
     "patientId": "TOK40",
     "dateAnnounced": "2020-11-22",
     "ageBracket": -1,
-    "detectedPrefecture": "Suhbaatar",
+    "detectedPrefecture": "Sukhbaatard",
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#40",
