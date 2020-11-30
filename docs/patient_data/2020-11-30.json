@@ -3419,6 +3419,26 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "716",
+    "dateAnnounced": "2020-11-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Battsengel",
+    "detectedRegion": "Arkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#716",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "717",
+    "dateAnnounced": "2020-11-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Battsengel",
+    "detectedRegion": "Arkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#717",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "718",
     "dateAnnounced": "2020-11-29",
     "ageBracket": -1,
