@@ -27,7 +27,8 @@ const generateLastUpdated = async (patients) => {
     if (existingSummaryData) {
       const existingSummary = JSON.parse(existingSummaryData)
       if (existingSummary && existingSummary.updated && typeof existingSummary.updated === 'string') {
-        lastUpdated = existingSummary.updated
+        //lastUpdated = existingSummary.updated
+        lastUpdated = moment().utcOffset(480).format()
         console.log(`Pulling lastUpdated from summary/latest.json: ${lastUpdated}`)
       }
     }

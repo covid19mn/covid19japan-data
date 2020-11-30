@@ -114,6 +114,7 @@ const generateDailySummary = (patients, manualDailyData) => {
   // merge manually sourced data
   // TODO: critical should be pulled out of our patient
   //       data. But those numbers are incomplete.
+  
   for (let row of manualDailyData) {
     if (dailySummary[row.date]) {
       dailySummary[row.date].recoveredCumulative = safeParseInt(row.recovered)
