@@ -4,7 +4,7 @@ const moment = require('moment')
 
 const verify = require('./verify.js')
 
-const TIMELINE_FIRST_DAY = moment('2020-11-01')
+const TIMELINE_FIRST_DAY = moment('2020-03-10')
 
 
 // Merge all the data from the spreadsheet with auto-calculation
