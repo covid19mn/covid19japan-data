@@ -274,7 +274,7 @@ const generatePrefectureSummary = (patients, manualPrefectureData, recoveryByPre
     prefectureSummary[prefecture] = Object.assign({}, PREFECTURE_SUMMARY_TEMPLATE)
     prefectureSummary[prefecture].patients = []
     prefectureSummary[prefecture].confirmedByCity = {}
-}
+  }
 
   for (let patient of patients) {
     let prefectureName = patient.detectedPrefecture
@@ -419,9 +419,10 @@ const generateRegionSummary = (prefectureSummary, regionPrefectures) => {
         }
         if (regionSummary[regionName].dailyConfirmedCount.length < 1) {
           regionSummary[regionName].dailyConfirmedCount = [...prefecture.dailyConfirmedCount]
-        }
-        for (let i = 0; i < prefecture.dailyConfirmedCount.length; i++) {
-          regionSummary[regionName].dailyConfirmedCount[i] += prefecture.dailyConfirmedCount[i]
+        } else {
+          for (let i = 0; i < prefecture.dailyConfirmedCount.length; i++) {
+            regionSummary[regionName].dailyConfirmedCount[i] += prefecture.dailyConfirmedCount[i]
+          }
         }
       }
     }
