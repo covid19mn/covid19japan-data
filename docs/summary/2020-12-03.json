@@ -562,7 +562,7 @@
       "name": "Imported"
     },
     {
-      "confirmed": 183,
+      "confirmed": 189,
       "dailyConfirmedCount": [
         0,
         0,
@@ -832,10 +832,10 @@
         5,
         1,
         3,
-        0
+        6
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 6,
       "yesterdayConfirmed": 3,
       "dailyDeceasedCount": [
         0,
@@ -1115,7 +1115,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 183,
+      "active": 189,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -3367,7 +3367,7 @@
       "name": "Erdenet"
     },
     {
-      "confirmed": 23,
+      "confirmed": 24,
       "dailyConfirmedCount": [
         0,
         0,
@@ -3637,10 +3637,10 @@
         0,
         2,
         0,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
         0,
@@ -3920,7 +3920,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 23,
+      "active": 24,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -12633,14 +12633,14 @@
       "name": "Other"
     },
     {
-      "confirmed": 183,
-      "newlyConfirmed": 0,
+      "confirmed": 189,
+      "newlyConfirmed": 6,
       "yesterdayConfirmed": 3,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 183,
+      "active": 189,
       "dailyConfirmedCount": [
         0,
         0,
@@ -12910,7 +12910,7 @@
         5,
         1,
         3,
-        0
+        6
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -12919,14 +12919,14 @@
       "name": "Selenge"
     },
     {
-      "confirmed": 90,
-      "newlyConfirmed": 0,
+      "confirmed": 91,
+      "newlyConfirmed": 1,
       "yesterdayConfirmed": 6,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 90,
+      "active": 91,
       "dailyConfirmedCount": [
         0,
         0,
@@ -13196,7 +13196,7 @@
         2,
         7,
         6,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -18386,7 +18386,41 @@
       "recoveredAvg7d": 2,
       "recoveredCumulativeAvg3d": 356,
       "recoveredCumulativeAvg7d": 351
+    },
+    {
+      "confirmed": 7,
+      "confirmedCumulative": 819,
+      "deceased": 0,
+      "deceasedCumulative": 0,
+      "reportedDeceased": 0,
+      "reportedDeceasedCumulative": 0,
+      "recovered": 7,
+      "recoveredCumulative": 365,
+      "critical": 0,
+      "criticalCumulative": 8,
+      "tested": 15999,
+      "testedCumulative": 409666,
+      "active": 0,
+      "activeCumulative": 454,
+      "date": "2020-12-03",
+      "deaths": 0,
+      "confirmedAvg3d": 9,
+      "confirmedAvg7d": 15,
+      "confirmedCumulativeAvg3d": 810,
+      "confirmedCumulativeAvg7d": 786,
+      "deceasedAvg3d": 0,
+      "deceasedAvg7d": 0,
+      "deceasedCumulativeAvg3d": 0,
+      "deceasedCumulativeAvg7d": 0,
+      "reportedDeceasedAvg3d": 0,
+      "reportedDeceasedAvg7d": 0,
+      "reportedDeceasedCumulativeAvg3d": 0,
+      "reportedDeceasedCumulativeAvg7d": 0,
+      "recoveredAvg3d": 3,
+      "recoveredAvg7d": 3,
+      "recoveredCumulativeAvg3d": 360,
+      "recoveredCumulativeAvg7d": 354
     }
   ],
-  "updated": "2020-12-03T10:48:57+08:00"
+  "updated": "2020-12-03T11:15:09+08:00"
 }
