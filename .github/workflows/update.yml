@@ -5,7 +5,6 @@ name: Fetch and Summarize Data (Master)
       author:
         description: 'Your name to be logged in this job'
         required: true
-        default: 'warning'
   push:
     branches:
       - master
