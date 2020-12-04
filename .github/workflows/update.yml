@@ -1,17 +1,25 @@
 name: Fetch and Summarize Data (Master)
 'on': 
+  workflow_dispatch:
+    inputs:
+      author:
+        description: 'Your name to be logged in this job'
+        required: true
+        default: 'warning'
   push:
     branches:
       - master
   schedule:
     - cron: "*/15 * * * *"
-  workflow_dispatch
     
 jobs:
   summarize:
     name: summarize
     runs-on: ubuntu-latest
     steps:
+      - name: Job logging
+        run: "User who triggered this job: ${ github.event.inputs.author }"
+
       - name: Checkout
         uses: actions/checkout@v2
 
