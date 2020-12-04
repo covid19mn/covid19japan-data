@@ -8453,6 +8453,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Khan-Uul",
     "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#91",
     "confirmedPatient": true
   },
@@ -8462,6 +8463,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Songinokhairkhan",
     "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#92",
     "confirmedPatient": true
   },
@@ -8471,6 +8473,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Bayangol",
     "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#93",
     "confirmedPatient": true
   },
@@ -8480,6 +8483,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Bayangol",
     "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#94",
     "confirmedPatient": true
   },
@@ -8489,6 +8493,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Sukhbaatar",
     "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#95",
     "confirmedPatient": true
   },
@@ -8498,6 +8503,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Sukhbaatar",
     "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#96",
     "confirmedPatient": true
   }
