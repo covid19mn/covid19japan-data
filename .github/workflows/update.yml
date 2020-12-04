@@ -5,6 +5,7 @@ name: Fetch and Summarize Data (Master)
       - master
   schedule:
     - cron: "*/15 * * * *"
+  workflow_dispatch
     
 jobs:
   summarize:
