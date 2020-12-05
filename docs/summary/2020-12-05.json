@@ -18570,8 +18570,8 @@
       "recoveredCumulative": 368,
       "critical": 0,
       "criticalCumulative": 8,
-      "tested": 20200,
-      "testedCumulative": 450146,
+      "tested": 20240,
+      "testedCumulative": 450186,
       "active": 8,
       "activeCumulative": 474,
       "date": "2020-12-05",
@@ -18594,5 +18594,5 @@
       "recoveredCumulativeAvg7d": 360
     }
   ],
-  "updated": "2020-12-05T11:16:44+08:00"
+  "updated": "2020-12-05T11:30:04+08:00"
 }
