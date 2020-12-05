@@ -8506,5 +8506,94 @@
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#96",
     "confirmedPatient": true
+  },
+  {
+    "patientId": "736",
+    "dateAnnounced": "2020-12-05",
+    "ageBracket": -1,
+    "detectedPrefecture": "Sukhbaatar",
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#736",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "737",
+    "dateAnnounced": "2020-12-05",
+    "ageBracket": -1,
+    "detectedPrefecture": "Sukhbaatar",
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#737",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "738",
+    "dateAnnounced": "2020-12-05",
+    "ageBracket": -1,
+    "detectedPrefecture": "Sukhbaatar",
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#738",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "739",
+    "dateAnnounced": "2020-12-05",
+    "ageBracket": -1,
+    "detectedPrefecture": "Sukhbaatar",
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#739",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "740",
+    "dateAnnounced": "2020-12-05",
+    "ageBracket": -1,
+    "detectedPrefecture": "Zamiin-Uud",
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#740",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "741",
+    "dateAnnounced": "2020-12-05",
+    "ageBracket": -1,
+    "detectedPrefecture": "Zamiin-Uud",
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#741",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "742",
+    "dateAnnounced": "2020-12-05",
+    "ageBracket": -1,
+    "detectedPrefecture": "Zamiin-Uud",
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#742",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "743",
+    "dateAnnounced": "2020-12-05",
+    "ageBracket": -1,
+    "detectedPrefecture": "Zamiin-Uud",
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#743",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK97",
+    "dateAnnounced": "2020-12-05",
+    "ageBracket": -1,
+    "detectedPrefecture": "Songinokhairkhan",
+    "detectedRegion": "Ulaanbaatar",
+    "prefecturePatientNumber": "UB#97",
+    "confirmedPatient": true
   }
 ]
