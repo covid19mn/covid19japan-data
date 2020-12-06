@@ -8616,5 +8616,75 @@
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#99",
     "confirmedPatient": true
+  },
+  {
+    "patientId": "744",
+    "dateAnnounced": "2020-12-06",
+    "ageBracket": -1,
+    "detectedPrefecture": "Sukhbaatar",
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#744",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "745",
+    "dateAnnounced": "2020-12-06",
+    "ageBracket": -1,
+    "detectedPrefecture": "Sukhbaatar",
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#745",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "746",
+    "dateAnnounced": "2020-12-06",
+    "ageBracket": -1,
+    "detectedPrefecture": "Sukhbaatar",
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#746",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "747",
+    "dateAnnounced": "2020-12-06",
+    "ageBracket": -1,
+    "detectedPrefecture": "Sukhbaatar",
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#747",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "748",
+    "dateAnnounced": "2020-12-06",
+    "ageBracket": -1,
+    "detectedPrefecture": "Zamiin-Uud",
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#748",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "749",
+    "dateAnnounced": "2020-12-06",
+    "ageBracket": -1,
+    "detectedPrefecture": "Zamiin-Uud",
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#749",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "750",
+    "dateAnnounced": "2020-12-06",
+    "ageBracket": -1,
+    "detectedPrefecture": "Zamiin-Uud",
+    "detectedRegion": "Dornogovi",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#750",
+    "confirmedPatient": true
   }
 ]
