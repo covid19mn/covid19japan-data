@@ -8721,7 +8721,7 @@
     "patientId": "754",
     "dateAnnounced": "2020-12-07",
     "ageBracket": -1,
-    "detectedPrefecture": "Orkhon",
+    "detectedPrefecture": "Erdenet",
     "detectedRegion": "Orkhon",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#754",
@@ -8745,6 +8745,36 @@
     "detectedRegion": "Selenge",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#756",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "757",
+    "dateAnnounced": "2020-12-07",
+    "ageBracket": -1,
+    "detectedPrefecture": "HUSUT",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#757",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "758",
+    "dateAnnounced": "2020-12-07",
+    "ageBracket": -1,
+    "detectedPrefecture": "HUSUT",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#758",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "759",
+    "dateAnnounced": "2020-12-07",
+    "ageBracket": -1,
+    "detectedPrefecture": "HUSUT",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#759",
     "confirmedPatient": true
   },
   {
