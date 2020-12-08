@@ -18794,8 +18794,8 @@
       "recoveredCumulative": 384,
       "critical": 1,
       "criticalCumulative": 7,
-      "tested": 23341,
-      "testedCumulative": 592289,
+      "tested": 47582,
+      "testedCumulative": 616530,
       "active": 38,
       "activeCumulative": 503,
       "date": "2020-12-07",
@@ -18828,8 +18828,8 @@
       "recoveredCumulative": 384,
       "critical": 1,
       "criticalCumulative": 8,
-      "tested": 0,
-      "testedCumulative": 592289,
+      "tested": 27488,
+      "testedCumulative": 644018,
       "active": 1,
       "activeCumulative": 504,
       "date": "2020-12-08",
@@ -18852,5 +18852,5 @@
       "recoveredCumulativeAvg7d": 372
     }
   ],
-  "updated": "2020-12-08T11:12:33+08:00"
+  "updated": "2020-12-08T11:28:07+08:00"
 }
