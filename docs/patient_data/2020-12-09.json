@@ -9076,5 +9076,55 @@
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#760",
     "confirmedPatient": true
+  },
+  {
+    "patientId": "761",
+    "dateAnnounced": "2020-12-09",
+    "ageBracket": -1,
+    "detectedPrefecture": "Sukhbaatar",
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#761",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "762",
+    "dateAnnounced": "2020-12-09",
+    "ageBracket": -1,
+    "detectedPrefecture": "Sukhbaatar",
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#762",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "763",
+    "dateAnnounced": "2020-12-09",
+    "ageBracket": -1,
+    "detectedPrefecture": "Sukhbaatar",
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#763",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "764",
+    "dateAnnounced": "2020-12-09",
+    "ageBracket": -1,
+    "detectedPrefecture": "HUSUT",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#764",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "765",
+    "dateAnnounced": "2020-12-09",
+    "ageBracket": -1,
+    "detectedPrefecture": "HUSUT",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#765",
+    "confirmedPatient": true
   }
 ]
