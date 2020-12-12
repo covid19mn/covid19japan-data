@@ -9246,5 +9246,15 @@
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#138",
     "confirmedPatient": true
+  },
+  {
+    "patientId": "768",
+    "dateAnnounced": "2020-12-12",
+    "ageBracket": -1,
+    "detectedPrefecture": "HUSUT",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#768",
+    "confirmedPatient": true
   }
 ]
