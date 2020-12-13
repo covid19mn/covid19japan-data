@@ -9256,5 +9256,15 @@
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#768",
     "confirmedPatient": true
+  },
+  {
+    "patientId": "769",
+    "dateAnnounced": "2020-12-13",
+    "ageBracket": -1,
+    "detectedPrefecture": "Tsergiin emneleg",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#769",
+    "confirmedPatient": true
   }
 ]
