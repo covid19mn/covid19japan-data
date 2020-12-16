@@ -9364,5 +9364,15 @@
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#140",
     "confirmedPatient": true
+  },
+  {
+    "patientId": "778",
+    "dateAnnounced": "2020-12-16",
+    "ageBracket": -1,
+    "detectedPrefecture": "Sukhbaatar",
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#778",
+    "confirmedPatient": true
   }
 ]
