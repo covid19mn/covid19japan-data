@@ -9351,6 +9351,7 @@
     "patientId": "TOK139",
     "dateAnnounced": "2020-12-15",
     "ageBracket": -1,
+    "detectedPrefecture": "un",
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#139",
