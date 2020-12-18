@@ -9597,5 +9597,15 @@
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#162",
     "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK163",
+    "dateAnnounced": "2020-12-19",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayanzurkh",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#163",
+    "confirmedPatient": true
   }
 ]
