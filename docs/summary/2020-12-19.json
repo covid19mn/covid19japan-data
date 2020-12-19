@@ -20364,14 +20364,14 @@
       "deceasedCumulative": 0,
       "reportedDeceased": 0,
       "reportedDeceasedCumulative": 0,
-      "recovered": 0,
-      "recoveredCumulative": 473,
+      "recovered": 36,
+      "recoveredCumulative": 509,
       "critical": 0,
       "criticalCumulative": 4,
-      "tested": 0,
-      "testedCumulative": 870761,
-      "active": 12,
-      "activeCumulative": 480,
+      "tested": 11191,
+      "testedCumulative": 881952,
+      "active": -24,
+      "activeCumulative": 444,
       "date": "2020-12-19",
       "deaths": 0,
       "confirmedAvg3d": 11,
@@ -20386,11 +20386,11 @@
       "reportedDeceasedAvg7d": 0,
       "reportedDeceasedCumulativeAvg3d": 0,
       "reportedDeceasedCumulativeAvg7d": 0,
-      "recoveredAvg3d": 29,
-      "recoveredAvg7d": 12,
-      "recoveredCumulativeAvg3d": 443,
-      "recoveredCumulativeAvg7d": 409
+      "recoveredAvg3d": 41,
+      "recoveredAvg7d": 17,
+      "recoveredCumulativeAvg3d": 455,
+      "recoveredCumulativeAvg7d": 414
     }
   ],
-  "updated": "2020-12-19T11:08:08+08:00"
+  "updated": "2020-12-19T11:12:21+08:00"
 }
