@@ -5998,16 +5998,6 @@
     "confirmedPatient": true
   },
   {
-    "patientId": "TOK37",
-    "dateAnnounced": "2020-11-21",
-    "ageBracket": -1,
-    "detectedPrefecture": "Suhbaatar",
-    "detectedRegion": "Ulaanbaatar",
-    "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "UB#37",
-    "confirmedPatient": true
-  },
-  {
     "patientId": "TOK38",
     "dateAnnounced": "2020-11-21",
     "ageBracket": -1,
