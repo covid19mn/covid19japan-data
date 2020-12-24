@@ -1,7 +1,7 @@
 {
   "prefectures": [
     {
-      "confirmed": 392,
+      "confirmed": 393,
       "dailyConfirmedCount": [
         1,
         0,
@@ -292,10 +292,10 @@
         1,
         0,
         0,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
         0,
@@ -596,7 +596,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 392,
+      "active": 393,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -15078,14 +15078,14 @@
   ],
   "regions": [
     {
-      "confirmed": 463,
-      "newlyConfirmed": 0,
+      "confirmed": 464,
+      "newlyConfirmed": 1,
       "yesterdayConfirmed": 1,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 463,
+      "active": 464,
       "dailyConfirmedCount": [
         1,
         0,
@@ -15376,7 +15376,7 @@
         1,
         0,
         1,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -22004,8 +22004,8 @@
       "recoveredCumulativeAvg7d": 495
     },
     {
-      "confirmed": 5,
-      "confirmedCumulative": 1068,
+      "confirmed": 6,
+      "confirmedCumulative": 1069,
       "deceased": 0,
       "deceasedCumulative": 0,
       "reportedDeceased": 0,
@@ -22016,14 +22016,14 @@
       "criticalCumulative": 7,
       "tested": 11800,
       "testedCumulative": 939258,
-      "active": -38,
-      "activeCumulative": 484,
+      "active": -37,
+      "activeCumulative": 485,
       "date": "2020-12-24",
       "deaths": 0,
       "confirmedAvg3d": 25,
       "confirmedAvg7d": 20,
-      "confirmedCumulativeAvg3d": 1045,
-      "confirmedCumulativeAvg7d": 997,
+      "confirmedCumulativeAvg3d": 1046,
+      "confirmedCumulativeAvg7d": 998,
       "deceasedAvg3d": 0,
       "deceasedAvg7d": 0,
       "deceasedCumulativeAvg3d": 0,
@@ -22038,5 +22038,5 @@
       "recoveredCumulativeAvg7d": 523
     }
   ],
-  "updated": "2020-12-24T14:18:26+08:00"
+  "updated": "2020-12-24T14:56:38+08:00"
 }
