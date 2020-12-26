@@ -10948,5 +10948,75 @@
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#285",
     "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK286",
+    "dateAnnounced": "2020-12-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayanzurkh",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#286",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK287",
+    "dateAnnounced": "2020-12-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayanzurkh",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#287",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK288",
+    "dateAnnounced": "2020-12-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayanzurkh",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#288",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK289",
+    "dateAnnounced": "2020-12-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayanzurkh",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#289",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK290",
+    "dateAnnounced": "2020-12-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayanzurkh",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#290",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK291",
+    "dateAnnounced": "2020-12-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayanzurkh",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#291",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK292",
+    "dateAnnounced": "2020-12-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayangol",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#292",
+    "confirmedPatient": true
   }
 ]
