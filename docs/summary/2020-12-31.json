@@ -1,7 +1,7 @@
 {
   "prefectures": [
     {
-      "confirmed": 397,
+      "confirmed": 399,
       "dailyConfirmedCount": [
         1,
         0,
@@ -299,10 +299,10 @@
         0,
         1,
         2,
-        0
+        2
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 2,
       "yesterdayConfirmed": 2,
       "dailyDeceasedCount": [
         0,
@@ -610,7 +610,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 397,
+      "active": 399,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -15428,14 +15428,14 @@
   ],
   "regions": [
     {
-      "confirmed": 475,
-      "newlyConfirmed": 0,
+      "confirmed": 477,
+      "newlyConfirmed": 2,
       "yesterdayConfirmed": 2,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 475,
+      "active": 477,
       "dailyConfirmedCount": [
         1,
         0,
@@ -15733,7 +15733,7 @@
         6,
         1,
         2,
-        0
+        2
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -22626,8 +22626,8 @@
       "recoveredCumulative": 824,
       "critical": -1,
       "criticalCumulative": 8,
-      "tested": 12828,
-      "testedCumulative": 1057376,
+      "tested": 25822,
+      "testedCumulative": 1070370,
       "active": -59,
       "activeCumulative": 371,
       "date": "2020-12-30",
@@ -22648,7 +22648,41 @@
       "recoveredAvg7d": 40,
       "recoveredCumulativeAvg3d": 760,
       "recoveredCumulativeAvg7d": 695
+    },
+    {
+      "confirmed": 2,
+      "confirmedCumulative": 1197,
+      "deceased": 0,
+      "deceasedCumulative": 0,
+      "reportedDeceased": 0,
+      "reportedDeceasedCumulative": 0,
+      "recovered": 6,
+      "recoveredCumulative": 830,
+      "critical": 1,
+      "criticalCumulative": 9,
+      "tested": 13597,
+      "testedCumulative": 1083967,
+      "active": -4,
+      "activeCumulative": 367,
+      "date": "2020-12-31",
+      "deaths": 0,
+      "confirmedAvg3d": 19,
+      "confirmedAvg7d": 18,
+      "confirmedCumulativeAvg3d": 1189,
+      "confirmedCumulativeAvg7d": 1140,
+      "deceasedAvg3d": 0,
+      "deceasedAvg7d": 0,
+      "deceasedCumulativeAvg3d": 0,
+      "deceasedCumulativeAvg7d": 0,
+      "reportedDeceasedAvg3d": 0,
+      "reportedDeceasedAvg7d": 0,
+      "reportedDeceasedCumulativeAvg3d": 0,
+      "reportedDeceasedCumulativeAvg7d": 0,
+      "recoveredAvg3d": 39,
+      "recoveredAvg7d": 35,
+      "recoveredCumulativeAvg3d": 799,
+      "recoveredCumulativeAvg7d": 730
     }
   ],
-  "updated": "2020-12-31T11:01:23+08:00"
+  "updated": "2020-12-31T11:23:17+08:00"
 }

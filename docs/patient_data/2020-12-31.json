@@ -12154,5 +12154,25 @@
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#394",
     "confirmedPatient": true
+  },
+  {
+    "patientId": "802",
+    "dateAnnounced": "2020-12-31",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#802",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "803",
+    "dateAnnounced": "2020-12-31",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#803",
+    "confirmedPatient": true
   }
 ]
