@@ -12841,5 +12841,49 @@
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#450",
     "confirmedPatient": true
+  },
+  {
+    "patientId": "814",
+    "dateAnnounced": "2021-01-04",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "notes": "tokyo - ub 12/20",
+    "prefecturePatientNumber": "Patient#814",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "815",
+    "dateAnnounced": "2021-01-04",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "notes": "tokyo - ub 12/21",
+    "prefecturePatientNumber": "Patient#815",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "816",
+    "dateAnnounced": "2021-01-04",
+    "ageBracket": -1,
+    "detectedPrefecture": "HUSUT",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "notes": "tsergiin enmeleg",
+    "prefecturePatientNumber": "Patient#816",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "817",
+    "dateAnnounced": "2021-01-04",
+    "ageBracket": -1,
+    "detectedPrefecture": "HUSUT",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "notes": "tsergiin enmeleg",
+    "prefecturePatientNumber": "Patient#817",
+    "confirmedPatient": true
   }
 ]

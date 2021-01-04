@@ -1,7 +1,7 @@
 {
   "prefectures": [
     {
-      "confirmed": 406,
+      "confirmed": 408,
       "dailyConfirmedCount": [
         1,
         0,
@@ -303,10 +303,10 @@
         0,
         8,
         0,
-        0
+        2
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 2,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
         0,
@@ -618,7 +618,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 406,
+      "active": 408,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -5001,7 +5001,7 @@
       "name": "Songinokhairkhan"
     },
     {
-      "confirmed": 32,
+      "confirmed": 34,
       "dailyConfirmedCount": [
         0,
         0,
@@ -5303,10 +5303,10 @@
         0,
         0,
         0,
-        0
+        2
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 2,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
         0,
@@ -5618,7 +5618,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 32,
+      "active": 34,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -15628,14 +15628,14 @@
   ],
   "regions": [
     {
-      "confirmed": 487,
-      "newlyConfirmed": 0,
+      "confirmed": 491,
+      "newlyConfirmed": 4,
       "yesterdayConfirmed": 0,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 487,
+      "active": 491,
       "dailyConfirmedCount": [
         1,
         0,
@@ -15937,7 +15937,7 @@
         0,
         8,
         0,
-        0
+        4
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -23016,7 +23016,41 @@
       "recoveredAvg7d": 22,
       "recoveredCumulativeAvg3d": 853,
       "recoveredCumulativeAvg7d": 810
+    },
+    {
+      "confirmed": 4,
+      "confirmedCumulative": 1267,
+      "deceased": 0,
+      "deceasedCumulative": 0,
+      "reportedDeceased": 0,
+      "reportedDeceasedCumulative": 0,
+      "recovered": 9,
+      "recoveredCumulative": 878,
+      "critical": 0,
+      "criticalCumulative": 11,
+      "tested": 13621,
+      "testedCumulative": 1134547,
+      "active": -5,
+      "activeCumulative": 389,
+      "date": "2021-01-04",
+      "deaths": 0,
+      "confirmedAvg3d": 15,
+      "confirmedAvg7d": 18,
+      "confirmedCumulativeAvg3d": 1257,
+      "confirmedCumulativeAvg7d": 1225,
+      "deceasedAvg3d": 0,
+      "deceasedAvg7d": 0,
+      "deceasedCumulativeAvg3d": 0,
+      "deceasedCumulativeAvg7d": 0,
+      "reportedDeceasedAvg3d": 0,
+      "reportedDeceasedAvg7d": 0,
+      "reportedDeceasedCumulativeAvg3d": 0,
+      "reportedDeceasedCumulativeAvg7d": 0,
+      "recoveredAvg3d": 13,
+      "recoveredAvg7d": 23,
+      "recoveredCumulativeAvg3d": 867,
+      "recoveredCumulativeAvg7d": 834
     }
   ],
-  "updated": "2021-01-04T13:46:47+08:00"
+  "updated": "2021-01-04T14:15:04+08:00"
 }
