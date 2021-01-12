@@ -14636,5 +14636,145 @@
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#617",
     "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK618",
+    "dateAnnounced": "2021-01-12",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayangol",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#618",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK619",
+    "dateAnnounced": "2021-01-12",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayangol",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#619",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK620",
+    "dateAnnounced": "2021-01-12",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayangol",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#620",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK621",
+    "dateAnnounced": "2021-01-12",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayanzurkh",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#621",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK622",
+    "dateAnnounced": "2021-01-12",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayanzurkh",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#622",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK623",
+    "dateAnnounced": "2021-01-12",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayanzurkh",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#623",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK624",
+    "dateAnnounced": "2021-01-12",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayanzurkh",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#624",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK625",
+    "dateAnnounced": "2021-01-12",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayanzurkh",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#625",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK626",
+    "dateAnnounced": "2021-01-12",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayanzurkh",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#626",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK627",
+    "dateAnnounced": "2021-01-12",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayanzurkh",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#627",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK628",
+    "dateAnnounced": "2021-01-12",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayanzurkh",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#628",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK629",
+    "dateAnnounced": "2021-01-12",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayanzurkh",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#629",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK630",
+    "dateAnnounced": "2021-01-12",
+    "ageBracket": -1,
+    "detectedPrefecture": "Songinokhairkhan",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#630",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK631",
+    "dateAnnounced": "2021-01-12",
+    "ageBracket": -1,
+    "detectedPrefecture": "Khan-Uul",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#631",
+    "confirmedPatient": true
   }
 ]
