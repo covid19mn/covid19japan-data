@@ -1,15 +1,5 @@
 [
   {
-    "patientId": "TOK701",
-    "dateAnnounced": "2020-01-19",
-    "ageBracket": -1,
-    "detectedPrefecture": "Bayangol",
-    "detectedRegion": "Ulaanbaatar",
-    "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "UB#701",
-    "confirmedPatient": true
-  },
-  {
     "patientId": "TOK702",
     "dateAnnounced": "2020-01-19",
     "ageBracket": -1,
@@ -15576,6 +15566,16 @@
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#700",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK701",
+    "dateAnnounced": "2021-01-19",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayangol",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#701",
     "confirmedPatient": true
   }
 ]
