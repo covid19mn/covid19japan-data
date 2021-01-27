@@ -16777,5 +16777,115 @@
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#826",
     "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK827",
+    "dateAnnounced": "2021-01-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Suhbaatar",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#827",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK828",
+    "dateAnnounced": "2021-01-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayangol",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#828",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK829",
+    "dateAnnounced": "2021-01-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayanzurkh",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#829",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK830",
+    "dateAnnounced": "2021-01-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayanzurkh",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#830",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK831",
+    "dateAnnounced": "2021-01-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Songinokhairkhan",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#831",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK832",
+    "dateAnnounced": "2021-01-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Songinokhairkhan",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#832",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK833",
+    "dateAnnounced": "2021-01-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Songinokhairkhan",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#833",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK834",
+    "dateAnnounced": "2021-01-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Songinokhairkhan",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#834",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK835",
+    "dateAnnounced": "2021-01-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Songinokhairkhan",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#835",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK836",
+    "dateAnnounced": "2021-01-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Khan-Uul",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#836",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "TOK837",
+    "dateAnnounced": "2021-01-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Khan-Uul",
+    "detectedRegion": "Ulaanbaatar",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "UB#837",
+    "confirmedPatient": true
   }
 ]
