@@ -17139,6 +17139,28 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "831",
+    "dateAnnounced": "2021-01-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Enhsaran",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "notes": "unknown",
+    "prefecturePatientNumber": "Patient#831",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "832",
+    "dateAnnounced": "2021-01-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Enhsaran",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "notes": "unknown",
+    "prefecturePatientNumber": "Patient#832",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "TOK863",
     "dateAnnounced": "2021-01-29",
     "ageBracket": -1,
