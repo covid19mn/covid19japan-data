@@ -1,7 +1,7 @@
 {
   "prefectures": [
     {
-      "confirmed": 451,
+      "confirmed": 459,
       "dailyConfirmedCount": [
         0,
         0,
@@ -328,10 +328,10 @@
         1,
         2,
         9,
-        0
+        8
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 8,
       "yesterdayConfirmed": 9,
       "dailyDeceasedCount": [
         0,
@@ -668,7 +668,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 451,
+      "active": 459,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -2026,7 +2026,7 @@
       "name": "Sukhbaatar"
     },
     {
-      "confirmed": 163,
+      "confirmed": 169,
       "dailyConfirmedCount": [
         0,
         0,
@@ -2353,10 +2353,10 @@
         2,
         1,
         1,
-        0
+        6
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 6,
       "yesterdayConfirmed": 1,
       "dailyDeceasedCount": [
         0,
@@ -2693,7 +2693,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 162,
+      "active": 168,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -3376,7 +3376,7 @@
       "name": "Songinokhairkhan"
     },
     {
-      "confirmed": 57,
+      "confirmed": 58,
       "dailyConfirmedCount": [
         0,
         0,
@@ -3703,10 +3703,10 @@
         0,
         2,
         2,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "yesterdayConfirmed": 2,
       "dailyDeceasedCount": [
         0,
@@ -4043,7 +4043,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 57,
+      "active": 58,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -5401,7 +5401,7 @@
       "name": "Enhsaran"
     },
     {
-      "confirmed": 46,
+      "confirmed": 47,
       "dailyConfirmedCount": [
         0,
         0,
@@ -5728,10 +5728,10 @@
         0,
         0,
         3,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "yesterdayConfirmed": 3,
       "dailyDeceasedCount": [
         0,
@@ -6068,7 +6068,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 46,
+      "active": 47,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -16878,14 +16878,14 @@
   ],
   "regions": [
     {
-      "confirmed": 862,
-      "newlyConfirmed": 0,
+      "confirmed": 878,
+      "newlyConfirmed": 16,
       "yesterdayConfirmed": 25,
       "deceased": 1,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 861,
+      "active": 877,
       "dailyConfirmedCount": [
         0,
         0,
@@ -17212,7 +17212,7 @@
         11,
         11,
         25,
-        0
+        16
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -25316,7 +25316,41 @@
       "recoveredAvg7d": 28,
       "recoveredCumulativeAvg3d": 1230,
       "recoveredCumulativeAvg7d": 1175
+    },
+    {
+      "confirmed": 16,
+      "confirmedCumulative": 1708,
+      "deceased": 0,
+      "deceasedCumulative": 1,
+      "reportedDeceased": 0,
+      "reportedDeceasedCumulative": 1,
+      "recovered": 59,
+      "recoveredCumulative": 1303,
+      "critical": -2,
+      "criticalCumulative": 1,
+      "tested": 29909,
+      "testedCumulative": 1857883,
+      "active": -43,
+      "activeCumulative": 404,
+      "date": "2021-01-29",
+      "deaths": 0,
+      "confirmedAvg3d": 17,
+      "confirmedAvg7d": 16,
+      "confirmedCumulativeAvg3d": 1689,
+      "confirmedCumulativeAvg7d": 1657,
+      "deceasedAvg3d": 0,
+      "deceasedAvg7d": 0,
+      "deceasedCumulativeAvg3d": 1,
+      "deceasedCumulativeAvg7d": 1,
+      "reportedDeceasedAvg3d": 0,
+      "reportedDeceasedAvg7d": 0,
+      "reportedDeceasedCumulativeAvg3d": 1,
+      "reportedDeceasedCumulativeAvg7d": 1,
+      "recoveredAvg3d": 30,
+      "recoveredAvg7d": 29,
+      "recoveredCumulativeAvg3d": 1261,
+      "recoveredCumulativeAvg7d": 1205
     }
   ],
-  "updated": "2021-01-29T10:58:38+08:00"
+  "updated": "2021-01-29T11:18:30+08:00"
 }
