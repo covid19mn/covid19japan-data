@@ -682,7 +682,7 @@
       "name": "Bayanzurkh"
     },
     {
-      "confirmed": 410,
+      "confirmed": 411,
       "dailyConfirmedCount": [
         1,
         0,
@@ -1010,7 +1010,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         0
       ],
@@ -1355,7 +1355,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 410,
+      "active": 411,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -17383,14 +17383,14 @@
       "name": "Ulaanbaatar"
     },
     {
-      "confirmed": 506,
+      "confirmed": 507,
       "newlyConfirmed": 0,
       "yesterdayConfirmed": 0,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 506,
+      "active": 507,
       "dailyConfirmedCount": [
         1,
         0,
@@ -17718,7 +17718,7 @@
         0,
         0,
         2,
-        0,
+        1,
         0,
         0
       ],
@@ -25526,8 +25526,8 @@
       "recoveredCumulativeAvg7d": 1205
     },
     {
-      "confirmed": 31,
-      "confirmedCumulative": 1741,
+      "confirmed": 32,
+      "confirmedCumulative": 1742,
       "deceased": 0,
       "deceasedCumulative": 1,
       "reportedDeceased": 0,
@@ -25538,11 +25538,11 @@
       "criticalCumulative": 2,
       "tested": 32851,
       "testedCumulative": 1890734,
-      "active": 13,
-      "activeCumulative": 419,
+      "active": 14,
+      "activeCumulative": 420,
       "date": "2021-01-30",
       "deaths": 0,
-      "confirmedAvg3d": 24,
+      "confirmedAvg3d": 25,
       "confirmedAvg7d": 18,
       "confirmedCumulativeAvg3d": 1714,
       "confirmedCumulativeAvg7d": 1676,
@@ -25560,5 +25560,5 @@
       "recoveredCumulativeAvg7d": 1233
     }
   ],
-  "updated": "2021-02-01T11:20:06+08:00"
+  "updated": "2021-02-01T11:25:05+08:00"
 }

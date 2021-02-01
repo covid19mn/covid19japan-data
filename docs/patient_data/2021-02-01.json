@@ -17321,6 +17321,16 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "833",
+    "dateAnnounced": "2021-01-30",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#833",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "TOK879",
     "dateAnnounced": "2021-01-30",
     "ageBracket": -1,
