@@ -17642,6 +17642,16 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "835",
+    "dateAnnounced": "2021-01-31",
+    "ageBracket": -1,
+    "detectedPrefecture": "HUSUT",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#835",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "TOK910",
     "dateAnnounced": "2021-01-31",
     "ageBracket": -1,
