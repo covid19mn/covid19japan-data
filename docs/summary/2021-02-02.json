@@ -684,7 +684,7 @@
       "name": "Bayanzurkh"
     },
     {
-      "confirmed": 411,
+      "confirmed": 410,
       "dailyConfirmedCount": [
         1,
         0,
@@ -1012,7 +1012,7 @@
         0,
         0,
         0,
-        1,
+        0,
         0,
         0,
         0
@@ -1359,7 +1359,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 411,
+      "active": 410,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -5465,7 +5465,7 @@
       "name": "Khan-Uul"
     },
     {
-      "confirmed": 51,
+      "confirmed": 52,
       "dailyConfirmedCount": [
         0,
         0,
@@ -5793,7 +5793,7 @@
         0,
         0,
         2,
-        0,
+        1,
         0,
         0,
         0
@@ -6140,7 +6140,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 51,
+      "active": 52,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -26377,10 +26377,10 @@
       "reportedDeceasedCumulative": 4,
       "recovered": 26,
       "recoveredCumulative": 1384,
-      "critical": 0,
-      "criticalCumulative": 1,
-      "tested": 0,
-      "testedCumulative": 1923231,
+      "critical": 1,
+      "criticalCumulative": 2,
+      "tested": 29776,
+      "testedCumulative": 1953007,
       "active": -8,
       "activeCumulative": 444,
       "date": "2021-02-02",
@@ -26403,5 +26403,5 @@
       "recoveredCumulativeAvg7d": 1311
     }
   ],
-  "updated": "2021-02-02T13:47:03+08:00"
+  "updated": "2021-02-02T14:05:12+08:00"
 }
