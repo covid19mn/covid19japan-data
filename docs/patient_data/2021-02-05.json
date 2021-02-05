@@ -17324,6 +17324,16 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "836",
+    "dateAnnounced": "2021-01-30",
+    "ageBracket": -1,
+    "detectedPrefecture": "Sukhbaatar",
+    "detectedRegion": "Selenge",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#836",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "TOK878",
     "dateAnnounced": "2021-01-30",
     "ageBracket": -1,
