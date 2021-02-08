@@ -26244,14 +26244,14 @@
       "deceasedCumulative": 4,
       "reportedDeceased": 0,
       "reportedDeceasedCumulative": 4,
-      "recovered": 33,
-      "recoveredCumulative": 1496,
+      "recovered": 30,
+      "recoveredCumulative": 1493,
       "critical": 0,
       "criticalCumulative": 6,
       "tested": 12252,
       "testedCumulative": 2133490,
-      "active": 17,
-      "activeCumulative": 577,
+      "active": 20,
+      "activeCumulative": 580,
       "date": "2021-02-08",
       "deaths": 0,
       "confirmedAvg3d": 48,
@@ -26266,11 +26266,11 @@
       "reportedDeceasedAvg7d": 0,
       "reportedDeceasedCumulativeAvg3d": 4,
       "reportedDeceasedCumulativeAvg7d": 4,
-      "recoveredAvg3d": 22,
+      "recoveredAvg3d": 21,
       "recoveredAvg7d": 19,
-      "recoveredCumulativeAvg3d": 1469,
+      "recoveredCumulativeAvg3d": 1468,
       "recoveredCumulativeAvg7d": 1428
     }
   ],
-  "updated": "2021-02-08T12:00:59+08:00"
+  "updated": "2021-02-08T12:06:12+08:00"
 }
