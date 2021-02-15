@@ -23785,6 +23785,7 @@
     "detectedPrefecture": "Bayangol",
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
+    "notes": "bz 10",
     "prefecturePatientNumber": "UB#1522",
     "confirmedPatient": true
   },
@@ -23795,6 +23796,7 @@
     "detectedPrefecture": "Bayangol",
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
+    "notes": "sb 1",
     "prefecturePatientNumber": "UB#1523",
     "confirmedPatient": true
   },
@@ -23805,6 +23807,7 @@
     "detectedPrefecture": "Bayanzurkh",
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
+    "notes": "sh 3 ",
     "prefecturePatientNumber": "UB#1524",
     "confirmedPatient": true
   },
@@ -23815,6 +23818,7 @@
     "detectedPrefecture": "Bayanzurkh",
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
+    "notes": "ku3",
     "prefecturePatientNumber": "UB#1525",
     "confirmedPatient": true
   },
@@ -23825,6 +23829,7 @@
     "detectedPrefecture": "Bayanzurkh",
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
+    "notes": "ch 5 ",
     "prefecturePatientNumber": "UB#1526",
     "confirmedPatient": true
   },
@@ -23835,6 +23840,7 @@
     "detectedPrefecture": "Bayanzurkh",
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
+    "notes": "n1 ",
     "prefecturePatientNumber": "UB#1527",
     "confirmedPatient": true
   },
