@@ -27120,5 +27120,45 @@
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#1855",
     "confirmedPatient": true
+  },
+  {
+    "patientId": "843",
+    "dateAnnounced": "2021-02-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "HUSUT",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#843",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "844",
+    "dateAnnounced": "2021-02-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#844",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "845",
+    "dateAnnounced": "2021-02-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#845",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "846",
+    "dateAnnounced": "2021-02-28",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#846",
+    "confirmedPatient": true
   }
 ]
