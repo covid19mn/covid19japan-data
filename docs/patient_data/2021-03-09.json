@@ -17327,8 +17327,8 @@
     "patientId": "836",
     "dateAnnounced": "2021-01-30",
     "ageBracket": -1,
-    "detectedPrefecture": "Sukhbaatar",
-    "detectedRegion": "Selenge",
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#836",
     "confirmedPatient": true
@@ -24391,16 +24391,6 @@
     "confirmedPatient": true
   },
   {
-    "patientId": "840",
-    "dateAnnounced": "2021-02-17",
-    "ageBracket": -1,
-    "detectedPrefecture": "Enhsaran",
-    "detectedRegion": "Other",
-    "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "Patient#840",
-    "confirmedPatient": true
-  },
-  {
     "patientId": "TOK1578",
     "dateAnnounced": "2021-02-17",
     "ageBracket": -1,
@@ -25741,13 +25731,13 @@
     "confirmedPatient": true
   },
   {
-    "patientId": "841",
+    "patientId": "840",
     "dateAnnounced": "2021-02-20",
     "ageBracket": -1,
     "detectedPrefecture": "HUSUT",
     "detectedRegion": "Other",
     "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "Patient#841",
+    "prefecturePatientNumber": "Patient#840",
     "confirmedPatient": true
   },
   {
@@ -26611,13 +26601,13 @@
     "confirmedPatient": true
   },
   {
-    "patientId": "842",
+    "patientId": "841",
     "dateAnnounced": "2021-02-22",
     "ageBracket": -1,
     "detectedPrefecture": "HUSUT",
     "detectedRegion": "Other",
     "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "Patient#842",
+    "prefecturePatientNumber": "Patient#841",
     "confirmedPatient": true
   },
   {
@@ -28241,13 +28231,13 @@
     "confirmedPatient": true
   },
   {
-    "patientId": "843",
+    "patientId": "842",
     "dateAnnounced": "2021-02-26",
     "ageBracket": -1,
     "detectedPrefecture": "HUSUT",
     "detectedRegion": "Other",
     "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "Patient#843",
+    "prefecturePatientNumber": "Patient#842",
     "confirmedPatient": true
   },
   {
@@ -28551,6 +28541,17 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "843",
+    "dateAnnounced": "2021-02-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "notes": "istanbul-ub",
+    "prefecturePatientNumber": "Patient#843",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "844",
     "dateAnnounced": "2021-02-27",
     "ageBracket": -1,
@@ -28559,17 +28560,6 @@
     "patientStatus": "Hospitalized",
     "notes": "istanbul-ub",
     "prefecturePatientNumber": "Patient#844",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": "845",
-    "dateAnnounced": "2021-02-27",
-    "ageBracket": -1,
-    "detectedPrefecture": "Imported",
-    "detectedRegion": "Other",
-    "patientStatus": "Hospitalized",
-    "notes": "istanbul-ub",
-    "prefecturePatientNumber": "Patient#845",
     "confirmedPatient": true
   },
   {
@@ -28903,13 +28893,13 @@
     "confirmedPatient": true
   },
   {
-    "patientId": "846",
+    "patientId": "845",
     "dateAnnounced": "2021-02-28",
     "ageBracket": -1,
     "detectedPrefecture": "Imported",
     "detectedRegion": "Other",
     "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "Patient#846",
+    "prefecturePatientNumber": "Patient#845",
     "confirmedPatient": true
   },
   {
@@ -30563,6 +30553,26 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "846",
+    "dateAnnounced": "2021-03-04",
+    "ageBracket": -1,
+    "detectedPrefecture": "Uliastai",
+    "detectedRegion": "Zavkhan",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#846",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "847",
+    "dateAnnounced": "2021-03-04",
+    "ageBracket": -1,
+    "detectedPrefecture": "Uliastai",
+    "detectedRegion": "Zavkhan",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#847",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "TOK2188",
     "dateAnnounced": "2021-03-04",
     "ageBracket": -1,
@@ -31753,6 +31763,16 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "848",
+    "dateAnnounced": "2021-03-06",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#848",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "849",
     "dateAnnounced": "2021-03-06",
     "ageBracket": -1,
@@ -31770,16 +31790,6 @@
     "detectedRegion": "Other",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#850",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": "851",
-    "dateAnnounced": "2021-03-06",
-    "ageBracket": -1,
-    "detectedPrefecture": "Imported",
-    "detectedRegion": "Other",
-    "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "Patient#851",
     "confirmedPatient": true
   },
   {
@@ -31830,6 +31840,46 @@
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#2311",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "851",
+    "dateAnnounced": "2021-03-07",
+    "ageBracket": -1,
+    "detectedPrefecture": "Zuunmod",
+    "detectedRegion": "Tuv",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#851",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "852",
+    "dateAnnounced": "2021-03-07",
+    "ageBracket": -1,
+    "detectedPrefecture": "Zuunmod",
+    "detectedRegion": "Tuv",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#852",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "853",
+    "dateAnnounced": "2021-03-07",
+    "ageBracket": -1,
+    "detectedPrefecture": "Zuunmod",
+    "detectedRegion": "Tuv",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#853",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "854",
+    "dateAnnounced": "2021-03-07",
+    "ageBracket": -1,
+    "detectedPrefecture": "Zuunmod",
+    "detectedRegion": "Tuv",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#854",
     "confirmedPatient": true
   },
   {
@@ -32463,6 +32513,16 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "855",
+    "dateAnnounced": "2021-03-08",
+    "ageBracket": -1,
+    "detectedPrefecture": "Imported",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#855",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "856",
     "dateAnnounced": "2021-03-08",
     "ageBracket": -1,
@@ -32480,16 +32540,6 @@
     "detectedRegion": "Other",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#857",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": "858",
-    "dateAnnounced": "2021-03-08",
-    "ageBracket": -1,
-    "detectedPrefecture": "Imported",
-    "detectedRegion": "Other",
-    "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "Patient#858",
     "confirmedPatient": true
   },
   {
@@ -33540,6 +33590,36 @@
     "detectedRegion": "Ulaanbaatar",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "UB#2479",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "858",
+    "dateAnnounced": "2021-03-09",
+    "ageBracket": -1,
+    "detectedPrefecture": "Zuunmod",
+    "detectedRegion": "Tuv",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#858",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "859",
+    "dateAnnounced": "2021-03-09",
+    "ageBracket": -1,
+    "detectedPrefecture": "Zuunmod",
+    "detectedRegion": "Tuv",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#859",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "860",
+    "dateAnnounced": "2021-03-09",
+    "ageBracket": -1,
+    "detectedPrefecture": "Zuunmod",
+    "detectedRegion": "Tuv",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#860",
     "confirmedPatient": true
   },
   {
