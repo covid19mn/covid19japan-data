@@ -1,7 +1,7 @@
 {
   "prefectures": [
     {
-      "confirmed": 976,
+      "confirmed": 984,
       "dailyConfirmedCount": [
         0,
         0,
@@ -367,10 +367,10 @@
         0,
         20,
         32,
-        0
+        8
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 8,
       "yesterdayConfirmed": 32,
       "dailyDeceasedCount": [
         0,
@@ -746,7 +746,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 974,
+      "active": 982,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -1507,7 +1507,7 @@
       "name": "Imported"
     },
     {
-      "confirmed": 396,
+      "confirmed": 399,
       "dailyConfirmedCount": [
         0,
         0,
@@ -1873,10 +1873,10 @@
         2,
         13,
         14,
-        0
+        3
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 3,
       "yesterdayConfirmed": 14,
       "dailyDeceasedCount": [
         0,
@@ -2252,7 +2252,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 395,
+      "active": 398,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -2260,7 +2260,7 @@
       "name": "Bayangol"
     },
     {
-      "confirmed": 370,
+      "confirmed": 379,
       "dailyConfirmedCount": [
         0,
         0,
@@ -2626,10 +2626,10 @@
         1,
         4,
         25,
-        0
+        9
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 9,
       "yesterdayConfirmed": 25,
       "dailyDeceasedCount": [
         0,
@@ -3005,7 +3005,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 370,
+      "active": 379,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -3013,7 +3013,7 @@
       "name": "Songinokhairkhan"
     },
     {
-      "confirmed": 311,
+      "confirmed": 321,
       "dailyConfirmedCount": [
         0,
         0,
@@ -3379,10 +3379,10 @@
         1,
         17,
         16,
-        0
+        10
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 10,
       "yesterdayConfirmed": 16,
       "dailyDeceasedCount": [
         0,
@@ -3758,7 +3758,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 311,
+      "active": 321,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -4519,7 +4519,7 @@
       "name": "Sukhbaatar"
     },
     {
-      "confirmed": 201,
+      "confirmed": 203,
       "dailyConfirmedCount": [
         0,
         0,
@@ -4885,10 +4885,10 @@
         0,
         4,
         10,
-        0
+        2
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 2,
       "yesterdayConfirmed": 10,
       "dailyDeceasedCount": [
         0,
@@ -5264,7 +5264,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 201,
+      "active": 203,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -5272,7 +5272,7 @@
       "name": "Chingeltei"
     },
     {
-      "confirmed": 201,
+      "confirmed": 202,
       "dailyConfirmedCount": [
         0,
         0,
@@ -5638,10 +5638,10 @@
         1,
         5,
         8,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "yesterdayConfirmed": 8,
       "dailyDeceasedCount": [
         0,
@@ -6017,7 +6017,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 201,
+      "active": 202,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -18828,14 +18828,14 @@
   ],
   "regions": [
     {
-      "confirmed": 2479,
-      "newlyConfirmed": 0,
+      "confirmed": 2512,
+      "newlyConfirmed": 33,
       "yesterdayConfirmed": 105,
       "deceased": 3,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 2476,
+      "active": 2509,
       "dailyConfirmedCount": [
         0,
         0,
@@ -19201,7 +19201,7 @@
         5,
         63,
         105,
-        0
+        33
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -28904,7 +28904,41 @@
       "recoveredAvg7d": 41,
       "recoveredCumulativeAvg3d": 2536,
       "recoveredCumulativeAvg7d": 2450
+    },
+    {
+      "confirmed": 33,
+      "confirmedCumulative": 3364,
+      "deceased": 0,
+      "deceasedCumulative": 4,
+      "reportedDeceased": 0,
+      "reportedDeceasedCumulative": 4,
+      "recovered": 0,
+      "recoveredCumulative": 2588,
+      "critical": 0,
+      "criticalCumulative": 5,
+      "tested": 0,
+      "testedCumulative": 3691134,
+      "active": 33,
+      "activeCumulative": 772,
+      "date": "2021-03-09",
+      "deaths": 0,
+      "confirmedAvg3d": 68,
+      "confirmedAvg7d": 51,
+      "confirmedCumulativeAvg3d": 3306,
+      "confirmedCumulativeAvg7d": 3191,
+      "deceasedAvg3d": 0,
+      "deceasedAvg7d": 0,
+      "deceasedCumulativeAvg3d": 4,
+      "deceasedCumulativeAvg7d": 4,
+      "reportedDeceasedAvg3d": 0,
+      "reportedDeceasedAvg7d": 0,
+      "reportedDeceasedCumulativeAvg3d": 4,
+      "reportedDeceasedCumulativeAvg7d": 4,
+      "recoveredAvg3d": 35,
+      "recoveredAvg7d": 36,
+      "recoveredCumulativeAvg3d": 2571,
+      "recoveredCumulativeAvg7d": 2487
     }
   ],
-  "updated": "2021-03-09T10:58:44+08:00"
+  "updated": "2021-03-09T11:25:43+08:00"
 }
