@@ -34047,6 +34047,46 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "870",
+    "dateAnnounced": "2021-03-10",
+    "ageBracket": -1,
+    "detectedPrefecture": "Enhsaran",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#870",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "871",
+    "dateAnnounced": "2021-03-10",
+    "ageBracket": -1,
+    "detectedPrefecture": "Enhsaran",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#871",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "872",
+    "dateAnnounced": "2021-03-10",
+    "ageBracket": -1,
+    "detectedPrefecture": "Enhsaran",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#872",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "873",
+    "dateAnnounced": "2021-03-10",
+    "ageBracket": -1,
+    "detectedPrefecture": "Enhsaran",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#873",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "TOK2513",
     "dateAnnounced": "2021-03-10",
     "ageBracket": -1,
@@ -35007,13 +35047,13 @@
     "confirmedPatient": true
   },
   {
-    "patientId": "870",
+    "patientId": "874",
     "dateAnnounced": "2021-03-11",
     "ageBracket": -1,
     "detectedPrefecture": "Zuunmod",
     "detectedRegion": "Tuv",
     "patientStatus": "Hospitalized",
-    "prefecturePatientNumber": "Patient#870",
+    "prefecturePatientNumber": "Patient#874",
     "confirmedPatient": true
   },
   {
