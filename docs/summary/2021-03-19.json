@@ -1,7 +1,7 @@
 {
   "prefectures": [
     {
-      "confirmed": 1279,
+      "confirmed": 1278,
       "dailyConfirmedCount": [
         0,
         0,
@@ -375,7 +375,7 @@
         31,
         31,
         31,
-        31,
+        30,
         31,
         33
       ],
@@ -766,7 +766,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 1274,
+      "active": 1273,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -4639,7 +4639,7 @@
       "name": "Suhbaatar"
     },
     {
-      "confirmed": 301,
+      "confirmed": 302,
       "dailyConfirmedCount": [
         0,
         0,
@@ -5013,7 +5013,7 @@
         32,
         22,
         28,
-        34,
+        35,
         54,
         61
       ],
@@ -5404,7 +5404,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 301,
+      "active": 302,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -21647,14 +21647,14 @@
   ],
   "regions": [
     {
-      "confirmed": 3466,
+      "confirmed": 3465,
       "newlyConfirmed": 99,
       "yesterdayConfirmed": 95,
       "deceased": 7,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 3459,
+      "active": 3458,
       "dailyConfirmedCount": [
         0,
         0,
@@ -22028,7 +22028,7 @@
         95,
         96,
         98,
-        95,
+        94,
         95,
         99
       ],
@@ -32963,5 +32963,5 @@
       "recoveredCumulativeAvg7d": 3101
     }
   ],
-  "updated": "2021-03-19T13:36:35+08:00"
+  "updated": "2021-03-19T13:51:37+08:00"
 }
