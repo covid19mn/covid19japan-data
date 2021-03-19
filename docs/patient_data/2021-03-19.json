@@ -43475,9 +43475,10 @@
     "ageBracket": -1,
     "detectedPrefecture": "Bayanzurkh",
     "detectedRegion": "Ulaanbaatar",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Deceased",
     "prefecturePatientNumber": "UB#3459",
-    "confirmedPatient": true
+    "confirmedPatient": true,
+    "deceasedDate": "2021-03-18"
   },
   {
     "patientId": "TOK3460",
