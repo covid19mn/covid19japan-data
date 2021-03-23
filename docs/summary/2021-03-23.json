@@ -13264,7 +13264,9 @@
         0
       ],
       "dailyDeceasedStartDate": "2020-03-10",
-      "dailyRecoveredCumulative": [],
+      "dailyRecoveredCumulative": [
+        0
+      ],
       "dailyRecoveredStartDate": "2021-03-23",
       "deceased": 0,
       "recovered": 0,
@@ -13276,7 +13278,7 @@
       "yesterdayDeceased": 0,
       "dailyActiveStartDate": "2021-03-23",
       "dailyActive": [
-        null
+        15
       ],
       "deaths": 0,
       "name": "Murun"
@@ -35325,5 +35327,5 @@
       "recoveredCumulativeAvg7d": 3404
     }
   ],
-  "updated": "2021-03-23T11:45:47+08:00"
+  "updated": "2021-03-23T12:14:49+08:00"
 }
