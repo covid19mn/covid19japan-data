@@ -51615,6 +51615,26 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "916",
+    "dateAnnounced": "2021-03-23",
+    "ageBracket": -1,
+    "detectedPrefecture": "Ulaangom",
+    "detectedRegion": "Uvs",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#916",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "917",
+    "dateAnnounced": "2021-03-23",
+    "ageBracket": -1,
+    "detectedPrefecture": "Ulaangom",
+    "detectedRegion": "Uvs",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#917",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "TOK4285",
     "dateAnnounced": "2021-03-23",
     "ageBracket": -1,
