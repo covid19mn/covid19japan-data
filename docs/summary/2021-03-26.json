@@ -7084,7 +7084,7 @@
       "name": "Sukhbaatar"
     },
     {
-      "confirmed": 73,
+      "confirmed": 74,
       "dailyConfirmedCount": [
         0,
         0,
@@ -7467,10 +7467,10 @@
         7,
         10,
         8,
-        5
+        6
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 5,
+      "newlyConfirmed": 6,
       "yesterdayConfirmed": 8,
       "dailyDeceasedCount": [
         0,
@@ -7863,7 +7863,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 73,
+      "active": 74,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -26397,14 +26397,14 @@
       "name": "Selenge"
     },
     {
-      "confirmed": 75,
-      "newlyConfirmed": 5,
+      "confirmed": 76,
+      "newlyConfirmed": 6,
       "yesterdayConfirmed": 8,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 75,
+      "active": 76,
       "dailyConfirmedCount": [
         0,
         0,
@@ -26787,7 +26787,7 @@
         7,
         10,
         8,
-        5
+        6
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -37974,20 +37974,20 @@
       "recoveredCumulativeAvg7d": 3639
     },
     {
-      "confirmed": 430,
-      "confirmedCumulative": 6325,
+      "confirmed": 431,
+      "confirmedCumulative": 6326,
       "deceased": 0,
       "deceasedCumulative": 9,
       "reportedDeceased": 0,
       "reportedDeceasedCumulative": 9,
       "recovered": 106,
       "recoveredCumulative": 4150,
-      "critical": 0,
-      "criticalCumulative": 27,
-      "tested": 0,
-      "testedCumulative": 4184712,
-      "active": 324,
-      "activeCumulative": 2166,
+      "critical": -2,
+      "criticalCumulative": 25,
+      "tested": 27365,
+      "testedCumulative": 4212077,
+      "active": 325,
+      "activeCumulative": 2167,
       "date": "2021-03-26",
       "deaths": 0,
       "confirmedAvg3d": 311,
@@ -38008,5 +38008,5 @@
       "recoveredCumulativeAvg7d": 3761
     }
   ],
-  "updated": "2021-03-26T11:57:07+08:00"
+  "updated": "2021-03-26T12:35:22+08:00"
 }

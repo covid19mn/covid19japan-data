@@ -58965,6 +58965,16 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "1045",
+    "dateAnnounced": "2021-03-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "Darkhan",
+    "detectedRegion": "Darkhan-Uul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1044",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "978",
     "dateAnnounced": "2021-03-26",
     "ageBracket": -1,
