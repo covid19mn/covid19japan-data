@@ -62885,6 +62885,426 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "1046",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Erdenet",
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1045",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1047",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Erdenet",
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1046",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1048",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Erdenet",
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1047",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1049",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Erdenet",
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1048",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1050",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Erdenet",
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1049",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1051",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Erdenet",
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1050",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1052",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Erdenet",
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1051",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1053",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Erdenet",
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1052",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1054",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Erdenet",
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1053",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1055",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Erdenet",
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1054",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1056",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Erdenet",
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1055",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1057",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Erdenet",
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1056",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1058",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Erdenet",
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1057",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1059",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Erdenet",
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1058",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1060",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Erdenet",
+    "detectedRegion": "Orkhon",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1059",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1061",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Battsengel",
+    "detectedRegion": "Arkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1060",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1062",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Battsengel",
+    "detectedRegion": "Arkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1061",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1063",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Battsengel",
+    "detectedRegion": "Arkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1062",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1064",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Battsengel",
+    "detectedRegion": "Arkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1063",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1065",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Battsengel",
+    "detectedRegion": "Arkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1064",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1066",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Battsengel",
+    "detectedRegion": "Arkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1065",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1067",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Battsengel",
+    "detectedRegion": "Arkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1066",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1068",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Battsengel",
+    "detectedRegion": "Arkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1067",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1069",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Battsengel",
+    "detectedRegion": "Arkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1068",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1070",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Battsengel",
+    "detectedRegion": "Arkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1069",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1071",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Battsengel",
+    "detectedRegion": "Arkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1070",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1072",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Battsengel",
+    "detectedRegion": "Arkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1071",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1073",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Zuunmod",
+    "detectedRegion": "Tuv",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1072",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1074",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Zuunmod",
+    "detectedRegion": "Tuv",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1073",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1075",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Zuunmod",
+    "detectedRegion": "Tuv",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1074",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1076",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Zuunmod",
+    "detectedRegion": "Tuv",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1075",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1077",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Murun",
+    "detectedRegion": "Khuvsgul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1076",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1078",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Murun",
+    "detectedRegion": "Khuvsgul",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1077",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1079",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Arvaikheer",
+    "detectedRegion": "Uvurkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1078",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1080",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Arvaikheer",
+    "detectedRegion": "Uvurkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1079",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1081",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Arvaikheer",
+    "detectedRegion": "Uvurkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1080",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1082",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Arvaikheer",
+    "detectedRegion": "Uvurkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1081",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1083",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Arvaikheer",
+    "detectedRegion": "Uvurkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1082",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1084",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Arvaikheer",
+    "detectedRegion": "Uvurkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1083",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1085",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Arvaikheer",
+    "detectedRegion": "Uvurkhangai",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1084",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1086",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayankhongor",
+    "detectedRegion": "Bayankhongor",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1085",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1087",
+    "dateAnnounced": "2021-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Bayankhongor",
+    "detectedRegion": "Bayankhongor",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1086",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "TOK5289",
     "dateAnnounced": "2021-03-27",
     "ageBracket": -1,
@@ -65751,8 +66171,9 @@
     "dateAnnounced": "2021-03-27",
     "ageBracket": -1,
     "detectedRegion": "Ulaanbaatar",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Deceased",
     "prefecturePatientNumber": "UB#5607",
-    "confirmedPatient": true
+    "confirmedPatient": true,
+    "deceasedDate": "2021-03-27"
   }
 ]
