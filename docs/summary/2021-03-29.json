@@ -39904,14 +39904,14 @@
       "deceasedCumulative": 10,
       "reportedDeceased": 0,
       "reportedDeceasedCumulative": 10,
-      "recovered": 0,
-      "recoveredCumulative": 4341,
+      "recovered": 185,
+      "recoveredCumulative": 4526,
       "critical": 3,
       "criticalCumulative": 38,
-      "tested": 0,
-      "testedCumulative": 4261223,
-      "active": 551,
-      "activeCumulative": 3205,
+      "tested": 23373,
+      "testedCumulative": 4284596,
+      "active": 366,
+      "activeCumulative": 3020,
       "date": "2021-03-29",
       "deaths": 0,
       "confirmedAvg3d": 410,
@@ -39926,11 +39926,11 @@
       "reportedDeceasedAvg7d": 0,
       "reportedDeceasedCumulativeAvg3d": 10,
       "reportedDeceasedCumulativeAvg7d": 9,
-      "recoveredAvg3d": 63,
-      "recoveredAvg7d": 105,
-      "recoveredCumulativeAvg3d": 4306,
-      "recoveredCumulativeAvg7d": 4116
+      "recoveredAvg3d": 125,
+      "recoveredAvg7d": 131,
+      "recoveredCumulativeAvg3d": 4368,
+      "recoveredCumulativeAvg7d": 4143
     }
   ],
-  "updated": "2021-03-29T11:35:03+08:00"
+  "updated": "2021-03-29T12:01:17+08:00"
 }
