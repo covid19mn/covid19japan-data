@@ -83747,6 +83747,116 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "1565",
+    "dateAnnounced": "2021-04-01",
+    "ageBracket": -1,
+    "detectedPrefecture": "Baruun Urt ",
+    "detectedRegion": "Sukhbaatar1",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1564",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1566",
+    "dateAnnounced": "2021-04-01",
+    "ageBracket": -1,
+    "detectedPrefecture": "Baruun Urt ",
+    "detectedRegion": "Sukhbaatar1",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1565",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1567",
+    "dateAnnounced": "2021-04-01",
+    "ageBracket": -1,
+    "detectedPrefecture": "Baruun Urt ",
+    "detectedRegion": "Sukhbaatar1",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1566",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1568",
+    "dateAnnounced": "2021-04-01",
+    "ageBracket": -1,
+    "detectedPrefecture": "Baruun Urt ",
+    "detectedRegion": "Sukhbaatar1",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1567",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1569",
+    "dateAnnounced": "2021-04-01",
+    "ageBracket": -1,
+    "detectedPrefecture": "Baruun Urt ",
+    "detectedRegion": "Sukhbaatar1",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1568",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1570",
+    "dateAnnounced": "2021-04-01",
+    "ageBracket": -1,
+    "detectedPrefecture": "Baruun Urt ",
+    "detectedRegion": "Sukhbaatar1",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1569",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1571",
+    "dateAnnounced": "2021-04-01",
+    "ageBracket": -1,
+    "detectedPrefecture": "Baruun Urt ",
+    "detectedRegion": "Sukhbaatar1",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1570",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1572",
+    "dateAnnounced": "2021-04-01",
+    "ageBracket": -1,
+    "detectedPrefecture": "Baruun Urt ",
+    "detectedRegion": "Sukhbaatar1",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1571",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1573",
+    "dateAnnounced": "2021-04-01",
+    "ageBracket": -1,
+    "detectedPrefecture": "Baruun Urt ",
+    "detectedRegion": "Sukhbaatar1",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1572",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1574",
+    "dateAnnounced": "2021-04-01",
+    "ageBracket": -1,
+    "detectedPrefecture": "Baruun Urt ",
+    "detectedRegion": "Sukhbaatar1",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1573",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1575",
+    "dateAnnounced": "2021-04-01",
+    "ageBracket": -1,
+    "detectedPrefecture": "Baruun Urt ",
+    "detectedRegion": "Sukhbaatar1",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1574",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "TOK7002",
     "dateAnnounced": "2021-04-01",
     "ageBracket": -1,
