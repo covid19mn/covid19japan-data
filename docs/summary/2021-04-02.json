@@ -30447,7 +30447,7 @@
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
       "deaths": 0,
-      "name": "Baruun Urt"
+      "name": "Baruun-Urt"
     },
     {
       "confirmed": 0,
@@ -39374,7 +39374,7 @@
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
-        "Baruun Urt"
+        "Baruun-Urt"
       ],
       "name": "Sukhbaatar1"
     }
@@ -47234,5 +47234,5 @@
       "recoveredCumulativeAvg7d": 4728
     }
   ],
-  "updated": "2021-04-02T12:58:04+08:00"
+  "updated": "2021-04-02T13:09:58+08:00"
 }
