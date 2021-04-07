@@ -58955,6 +58955,66 @@
     "confirmedPatient": true
   },
   {
+    "patientId": "1038",
+    "dateAnnounced": "2021-03-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "Undurkhaan",
+    "detectedRegion": "Khentii",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1038",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1039",
+    "dateAnnounced": "2021-03-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "Undurkhaan",
+    "detectedRegion": "Khentii",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1039",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1040",
+    "dateAnnounced": "2021-03-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "Undurkhaan",
+    "detectedRegion": "Khentii",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1040",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1041",
+    "dateAnnounced": "2021-03-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "Undurkhaan",
+    "detectedRegion": "Khentii",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1041",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1042",
+    "dateAnnounced": "2021-03-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "Undurkhaan",
+    "detectedRegion": "Khentii",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1042",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": "1043",
+    "dateAnnounced": "2021-03-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "Undurkhaan",
+    "detectedRegion": "Khentii",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#1043",
+    "confirmedPatient": true
+  },
+  {
     "patientId": "1044",
     "dateAnnounced": "2021-03-26",
     "ageBracket": -1,
