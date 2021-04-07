@@ -4867,7 +4867,7 @@
       "name": "Suhbaatar"
     },
     {
-      "confirmed": 433,
+      "confirmed": 427,
       "dailyConfirmedCount": [
         1,
         0,
@@ -5262,10 +5262,10 @@
         0,
         0,
         0,
-        6
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 6,
+      "newlyConfirmed": 0,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
         0,
@@ -5670,7 +5670,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 433,
+      "active": 427,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -33667,14 +33667,14 @@
       "name": "Ulaanbaatar"
     },
     {
-      "confirmed": 552,
-      "newlyConfirmed": 12,
+      "confirmed": 546,
+      "newlyConfirmed": 6,
       "yesterdayConfirmed": 1,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 552,
+      "active": 546,
       "dailyConfirmedCount": [
         1,
         0,
@@ -34069,7 +34069,7 @@
         0,
         0,
         1,
-        12
+        6
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -48653,8 +48653,8 @@
       "recoveredCumulativeAvg7d": 5420
     },
     {
-      "confirmed": 581,
-      "confirmedCumulative": 12232,
+      "confirmed": 575,
+      "confirmedCumulative": 12226,
       "deceased": 0,
       "deceasedCumulative": 12,
       "reportedDeceased": 0,
@@ -48665,13 +48665,13 @@
       "criticalCumulative": 71,
       "tested": 9804,
       "testedCumulative": 4509684,
-      "active": -321,
-      "activeCumulative": 5308,
+      "active": -327,
+      "activeCumulative": 5302,
       "date": "2021-04-07",
       "deaths": 0,
-      "confirmedAvg3d": 671,
-      "confirmedAvg7d": 540,
-      "confirmedCumulativeAvg3d": 11567,
+      "confirmedAvg3d": 669,
+      "confirmedAvg7d": 539,
+      "confirmedCumulativeAvg3d": 11565,
       "confirmedCumulativeAvg7d": 10383,
       "deceasedAvg3d": 0,
       "deceasedAvg7d": 0,
@@ -48687,5 +48687,5 @@
       "recoveredCumulativeAvg7d": 5703
     }
   ],
-  "updated": "2021-04-07T12:22:37+08:00"
+  "updated": "2021-04-07T12:25:20+08:00"
 }
