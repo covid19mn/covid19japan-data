@@ -9247,7 +9247,7 @@
     "dateAnnounced": "2021-03-23",
     "ageBracket": -1,
     "detectedPrefecture": "HUSUT",
-    "detectedRegion": "Ulaanbaatar",
+    "detectedRegion": "Other",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#903",
     "confirmedPatient": true
@@ -9257,7 +9257,7 @@
     "dateAnnounced": "2021-03-23",
     "ageBracket": -1,
     "detectedPrefecture": "HUSUT",
-    "detectedRegion": "Ulaanbaatar",
+    "detectedRegion": "Other",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#904",
     "confirmedPatient": true
@@ -13186,8 +13186,8 @@
     "patientId": "1297",
     "dateAnnounced": "2021-03-29",
     "ageBracket": -1,
-    "detectedPrefecture": "Bulgan",
-    "detectedRegion": "Bulgan",
+    "detectedPrefecture": "Undurkhaan",
+    "detectedRegion": "Khentii",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#1297",
     "confirmedPatient": true
@@ -13196,8 +13196,8 @@
     "patientId": "1298",
     "dateAnnounced": "2021-03-29",
     "ageBracket": -1,
-    "detectedPrefecture": "Bulgan",
-    "detectedRegion": "Bulgan",
+    "detectedPrefecture": "Undurkhaan",
+    "detectedRegion": "Khentii",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#1298",
     "confirmedPatient": true
@@ -13206,8 +13206,8 @@
     "patientId": "1299",
     "dateAnnounced": "2021-03-29",
     "ageBracket": -1,
-    "detectedPrefecture": "Bulgan",
-    "detectedRegion": "Bulgan",
+    "detectedPrefecture": "Undurkhaan",
+    "detectedRegion": "Khentii",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#1299",
     "confirmedPatient": true
@@ -13216,8 +13216,8 @@
     "patientId": "1300",
     "dateAnnounced": "2021-03-29",
     "ageBracket": -1,
-    "detectedPrefecture": "Bulgan",
-    "detectedRegion": "Bulgan",
+    "detectedPrefecture": "Undurkhaan",
+    "detectedRegion": "Khentii",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#1300",
     "confirmedPatient": true
@@ -15856,8 +15856,8 @@
     "patientId": "1564",
     "dateAnnounced": "2021-04-01",
     "ageBracket": -1,
-    "detectedPrefecture": "Baruun-Urt",
-    "detectedRegion": "Sukhbaatar1",
+    "detectedPrefecture": "Zuunmod",
+    "detectedRegion": "Tuv",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#1564",
     "confirmedPatient": true
@@ -23256,8 +23256,8 @@
     "patientId": "2304",
     "dateAnnounced": "2021-04-09",
     "ageBracket": -1,
-    "detectedPrefecture": "Darkhan",
-    "detectedRegion": "Darkhan-Uul",
+    "detectedPrefecture": "Bayankhongor",
+    "detectedRegion": "Bayankhongor",
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#2304",
     "confirmedPatient": true
