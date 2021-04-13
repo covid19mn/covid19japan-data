@@ -25841,5 +25841,15 @@
     "patientStatus": "Hospitalized",
     "prefecturePatientNumber": "Patient#2562",
     "confirmedPatient": true
+  },
+  {
+    "patientId": "2563",
+    "dateAnnounced": "2021-04-13",
+    "ageBracket": -1,
+    "detectedPrefecture": "HUSUT",
+    "detectedRegion": "Other",
+    "patientStatus": "Hospitalized",
+    "prefecturePatientNumber": "Patient#2563",
+    "confirmedPatient": true
   }
 ]
