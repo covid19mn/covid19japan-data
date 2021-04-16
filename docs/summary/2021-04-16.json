@@ -813,20 +813,20 @@
         2,
         2,
         2,
-        6
+        5
       ],
       "dailyDeceasedStartDate": "2020-03-10",
       "dailyRecoveredCumulative": [],
       "dailyRecoveredStartDate": null,
-      "deceased": 17,
+      "deceased": 16,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 11847,
+      "active": 11848,
       "confirmedByCity": {},
-      "newlyDeceased": 6,
+      "newlyDeceased": 5,
       "yesterdayDeceased": 2,
-      "deaths": 17,
+      "deaths": 16,
       "name": "Unknown"
     },
     {
@@ -13249,20 +13249,20 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "dailyDeceasedStartDate": "2020-03-10",
       "dailyRecoveredCumulative": [],
       "dailyRecoveredStartDate": null,
-      "deceased": 0,
+      "deceased": 1,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 96,
+      "active": 95,
       "confirmedByCity": {},
-      "newlyDeceased": 0,
+      "newlyDeceased": 1,
       "yesterdayDeceased": 0,
-      "deaths": 0,
+      "deaths": 1,
       "name": "Baruun-Urt"
     },
     {
@@ -32348,11 +32348,11 @@
       "confirmed": 16759,
       "newlyConfirmed": 1020,
       "yesterdayConfirmed": 654,
-      "deceased": 36,
+      "deceased": 35,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 16723,
+      "active": 16724,
       "dailyConfirmedCount": [
         0,
         0,
@@ -36143,11 +36143,11 @@
       "confirmed": 96,
       "newlyConfirmed": 2,
       "yesterdayConfirmed": 2,
-      "deceased": 0,
+      "deceased": 1,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 96,
+      "active": 95,
       "dailyConfirmedCount": [
         0,
         0,
@@ -49093,5 +49093,5 @@
       "recoveredCumulativeAvg7d": 9910
     }
   ],
-  "updated": "2021-04-16T11:34:49+08:00"
+  "updated": "2021-04-16T12:00:22+08:00"
 }
