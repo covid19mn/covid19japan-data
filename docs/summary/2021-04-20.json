@@ -49563,8 +49563,8 @@
       "recoveredCumulative": 12401,
       "critical": 16,
       "criticalCumulative": 304,
-      "tested": 12384,
-      "testedCumulative": 4689268,
+      "tested": 13032,
+      "testedCumulative": 4689916,
       "active": 360,
       "activeCumulative": 10434,
       "date": "2021-04-19",
@@ -49587,5 +49587,5 @@
       "recoveredCumulativeAvg7d": 11078
     }
   ],
-  "updated": "2021-04-20T10:16:59+08:00"
+  "updated": "2021-04-20T10:59:08+08:00"
 }
