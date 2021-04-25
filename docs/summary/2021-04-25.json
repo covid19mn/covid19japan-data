@@ -50257,8 +50257,8 @@
       "recoveredCumulative": 15403,
       "critical": 21,
       "criticalCumulative": 440,
-      "tested": 0,
-      "testedCumulative": 4762314,
+      "tested": 13058,
+      "testedCumulative": 4775372,
       "active": 602,
       "activeCumulative": 15002,
       "date": "2021-04-25",
@@ -50281,5 +50281,5 @@
       "recoveredCumulativeAvg7d": 13826
     }
   ],
-  "updated": "2021-04-25T11:29:36+08:00"
+  "updated": "2021-04-25T11:56:44+08:00"
 }
