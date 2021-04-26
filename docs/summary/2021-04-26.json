@@ -50351,14 +50351,14 @@
       "deceasedCumulative": 78,
       "reportedDeceased": 4,
       "reportedDeceasedCumulative": 78,
-      "recovered": 658,
-      "recoveredCumulative": 15403,
+      "recovered": 1010,
+      "recoveredCumulative": 15755,
       "critical": 21,
       "criticalCumulative": 440,
       "tested": 14314,
       "testedCumulative": 4776628,
-      "active": 602,
-      "activeCumulative": 15002,
+      "active": 250,
+      "activeCumulative": 14650,
       "date": "2021-04-25",
       "deaths": 4,
       "confirmedAvg3d": 1263,
@@ -50373,10 +50373,10 @@
       "reportedDeceasedAvg7d": 4,
       "reportedDeceasedCumulativeAvg3d": 73,
       "reportedDeceasedCumulativeAvg7d": 62,
-      "recoveredAvg3d": 543,
-      "recoveredAvg7d": 503,
-      "recoveredCumulativeAvg3d": 14802,
-      "recoveredCumulativeAvg7d": 13826
+      "recoveredAvg3d": 661,
+      "recoveredAvg7d": 554,
+      "recoveredCumulativeAvg3d": 14919,
+      "recoveredCumulativeAvg7d": 13876
     },
     {
       "confirmed": 856,
@@ -50385,13 +50385,13 @@
       "deceasedCumulative": 80,
       "reportedDeceased": 2,
       "reportedDeceasedCumulative": 80,
-      "recovered": 1412,
+      "recovered": 1060,
       "recoveredCumulative": 16815,
       "critical": -4,
       "criticalCumulative": 436,
-      "tested": 0,
-      "testedCumulative": 4776628,
-      "active": -558,
+      "tested": 8644,
+      "testedCumulative": 4785272,
+      "active": -206,
       "activeCumulative": 14444,
       "date": "2021-04-26",
       "deaths": 2,
@@ -50409,9 +50409,9 @@
       "reportedDeceasedCumulativeAvg7d": 67,
       "recoveredAvg3d": 852,
       "recoveredAvg7d": 630,
-      "recoveredCumulativeAvg3d": 15654,
-      "recoveredCumulativeAvg7d": 14457
+      "recoveredCumulativeAvg3d": 15771,
+      "recoveredCumulativeAvg7d": 14507
     }
   ],
-  "updated": "2021-04-26T11:54:43+08:00"
+  "updated": "2021-04-26T12:22:38+08:00"
 }
