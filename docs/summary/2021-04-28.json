@@ -16195,7 +16195,9 @@
         0
       ],
       "dailyDeceasedStartDate": "2020-03-10",
-      "dailyRecoveredCumulative": [],
+      "dailyRecoveredCumulative": [
+        0
+      ],
       "dailyRecoveredStartDate": "2021-04-28",
       "deceased": 0,
       "recovered": 0,
@@ -16207,7 +16209,7 @@
       "yesterdayDeceased": 0,
       "dailyActiveStartDate": "2021-04-28",
       "dailyActive": [
-        null
+        84
       ],
       "reinfected": 0,
       "deaths": 0,
@@ -17053,9 +17055,7 @@
         0
       ],
       "dailyDeceasedStartDate": "2020-03-10",
-      "dailyRecoveredCumulative": [
-        0
-      ],
+      "dailyRecoveredCumulative": [],
       "dailyRecoveredStartDate": "2021-04-28",
       "deceased": 0,
       "recovered": 0,
@@ -17067,7 +17067,7 @@
       "yesterdayDeceased": 0,
       "dailyActiveStartDate": "2021-04-28",
       "dailyActive": [
-        84
+        null
       ],
       "reinfected": 0,
       "deaths": 0,
@@ -50679,5 +50679,5 @@
       "recoveredCumulativeAvg7d": 15845
     }
   ],
-  "updated": "2021-04-28T13:21:13+08:00"
+  "updated": "2021-04-28T13:47:00+08:00"
 }
