@@ -51538,8 +51538,8 @@
       "recoveredCumulative": 16810,
       "critical": -4,
       "criticalCumulative": 436,
-      "tested": 8644,
-      "testedCumulative": 4785272,
+      "tested": 10175,
+      "testedCumulative": 4786803,
       "active": -201,
       "activeCumulative": 14449,
       "date": "2021-04-26",
@@ -51572,8 +51572,8 @@
       "recoveredCumulative": 17543,
       "critical": -13,
       "criticalCumulative": 423,
-      "tested": 10573,
-      "testedCumulative": 4795845,
+      "tested": 13161,
+      "testedCumulative": 4799964,
       "active": 357,
       "activeCumulative": 14806,
       "date": "2021-04-27",
@@ -51606,8 +51606,8 @@
       "recoveredCumulative": 18033,
       "critical": 86,
       "criticalCumulative": 509,
-      "tested": 11381,
-      "testedCumulative": 4807226,
+      "tested": 13459,
+      "testedCumulative": 4813423,
       "active": 672,
       "activeCumulative": 15478,
       "date": "2021-04-28",
@@ -51641,7 +51641,7 @@
       "critical": 37,
       "criticalCumulative": 546,
       "tested": 11145,
-      "testedCumulative": 4818371,
+      "testedCumulative": 4824568,
       "active": 324,
       "activeCumulative": 15802,
       "date": "2021-04-29",
@@ -51664,5 +51664,5 @@
       "recoveredCumulativeAvg7d": 16551
     }
   ],
-  "updated": "2021-04-29T11:49:05+08:00"
+  "updated": "2021-04-29T12:17:23+08:00"
 }
