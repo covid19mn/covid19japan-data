@@ -15644,7 +15644,7 @@
       "name": "Altai"
     },
     {
-      "confirmed": 110,
+      "confirmed": 109,
       "dailyConfirmedCount": [
         0,
         0,
@@ -16068,10 +16068,10 @@
         0,
         1,
         4,
-        9
+        8
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 9,
+      "newlyConfirmed": 8,
       "yesterdayConfirmed": 4,
       "dailyDeceasedCount": [
         0,
@@ -16505,7 +16505,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 110,
+      "active": 109,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -36105,14 +36105,14 @@
       "name": "Darkhan-Uul"
     },
     {
-      "confirmed": 661,
-      "newlyConfirmed": 9,
+      "confirmed": 660,
+      "newlyConfirmed": 8,
       "yesterdayConfirmed": 4,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 661,
+      "active": 660,
       "dailyConfirmedCount": [
         1,
         0,
@@ -36536,7 +36536,7 @@
         0,
         17,
         4,
-        9
+        8
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -53448,8 +53448,8 @@
       "recoveredCumulativeAvg7d": 21950
     },
     {
-      "confirmed": 941,
-      "confirmedCumulative": 42465,
+      "confirmed": 940,
+      "confirmedCumulative": 42464,
       "deceased": 12,
       "deceasedCumulative": 142,
       "reportedDeceased": 12,
@@ -53460,11 +53460,11 @@
       "criticalCumulative": 593,
       "tested": 9253,
       "testedCumulative": 4901513,
-      "active": -672,
-      "activeCumulative": 15081,
+      "active": -673,
+      "activeCumulative": 15080,
       "date": "2021-05-06",
       "deaths": 12,
-      "confirmedAvg3d": 1028,
+      "confirmedAvg3d": 1027,
       "confirmedAvg7d": 1120,
       "confirmedCumulativeAvg3d": 41461,
       "confirmedCumulativeAvg7d": 39357,
@@ -53482,5 +53482,5 @@
       "recoveredCumulativeAvg7d": 23168
     }
   ],
-  "updated": "2021-05-06T12:29:41+08:00"
+  "updated": "2021-05-06T12:54:53+08:00"
 }
