@@ -54134,14 +54134,14 @@
       "deceasedCumulative": 179,
       "reportedDeceased": 9,
       "reportedDeceasedCumulative": 179,
-      "recovered": 13276,
-      "recoveredCumulative": 45936,
+      "recovered": 1570,
+      "recoveredCumulative": 34230,
       "critical": 18,
       "criticalCumulative": 634,
       "tested": 7560,
       "testedCumulative": 4948485,
-      "active": -12629,
-      "activeCumulative": 0,
+      "active": -1102,
+      "activeCumulative": 11527,
       "date": "2021-05-11",
       "deaths": 9,
       "confirmedAvg3d": 640,
@@ -54156,11 +54156,11 @@
       "reportedDeceasedAvg7d": 7,
       "reportedDeceasedCumulativeAvg3d": 170,
       "reportedDeceasedCumulativeAvg7d": 156,
-      "recoveredAvg3d": 5317,
-      "recoveredAvg7d": 3086,
-      "recoveredCumulativeAvg3d": 36656,
-      "recoveredCumulativeAvg7d": 31624
+      "recoveredAvg3d": 1415,
+      "recoveredAvg7d": 1413,
+      "recoveredCumulativeAvg3d": 32754,
+      "recoveredCumulativeAvg7d": 29951
     }
   ],
-  "updated": "2021-05-11T11:43:04+08:00"
+  "updated": "2021-05-11T12:01:49+08:00"
 }
