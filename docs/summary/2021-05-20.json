@@ -55328,8 +55328,8 @@
       "recoveredCumulative": 43586,
       "critical": -31,
       "criticalCumulative": 596,
-      "tested": 9023,
-      "testedCumulative": 5016194,
+      "tested": 10446,
+      "testedCumulative": 5017617,
       "active": -296,
       "activeCumulative": 6286,
       "date": "2021-05-19",
@@ -55363,7 +55363,7 @@
       "critical": 53,
       "criticalCumulative": 649,
       "tested": 8133,
-      "testedCumulative": 5024327,
+      "testedCumulative": 5025750,
       "active": -294,
       "activeCumulative": 5992,
       "date": "2021-05-20",
@@ -55386,5 +55386,5 @@
       "recoveredCumulativeAvg7d": 41606
     }
   ],
-  "updated": "2021-05-20T15:46:40+08:00"
+  "updated": "2021-05-20T16:16:52+08:00"
 }
