@@ -56446,14 +56446,14 @@
       "deceasedCumulative": 263,
       "reportedDeceased": 4,
       "reportedDeceasedCumulative": 263,
-      "recovered": 0,
-      "recoveredCumulative": 48674,
+      "recovered": 75,
+      "recoveredCumulative": 48749,
       "critical": -7,
       "criticalCumulative": 590,
-      "tested": 0,
-      "testedCumulative": 5089580,
-      "active": 781,
-      "activeCumulative": 6915,
+      "tested": 7339,
+      "testedCumulative": 5096919,
+      "active": 706,
+      "activeCumulative": 6840,
       "date": "2021-05-28",
       "deaths": 4,
       "confirmedAvg3d": 706,
@@ -56468,11 +56468,11 @@
       "reportedDeceasedAvg7d": 3,
       "reportedDeceasedCumulativeAvg3d": 259,
       "reportedDeceasedCumulativeAvg7d": 254,
-      "recoveredAvg3d": 439,
-      "recoveredAvg7d": 504,
-      "recoveredCumulativeAvg3d": 48463,
-      "recoveredCumulativeAvg7d": 47383
+      "recoveredAvg3d": 464,
+      "recoveredAvg7d": 514,
+      "recoveredCumulativeAvg3d": 48488,
+      "recoveredCumulativeAvg7d": 47394
     }
   ],
-  "updated": "2021-05-28T14:03:44+08:00"
+  "updated": "2021-05-28T15:27:59+08:00"
 }
