@@ -59168,8 +59168,8 @@
       "reportedDeceasedCumulative": 400,
       "recovered": 571,
       "recoveredCumulative": 59220,
-      "critical": 0,
-      "criticalCumulative": 1037,
+      "critical": 43,
+      "criticalCumulative": 1080,
       "tested": 11540,
       "testedCumulative": 5371537,
       "active": 2070,
@@ -59194,5 +59194,5 @@
       "recoveredCumulativeAvg7d": 57481
     }
   ],
-  "updated": "2021-06-17T15:49:50+08:00"
+  "updated": "2021-06-17T16:14:27+08:00"
 }
