@@ -5717,7 +5717,9 @@
         0
       ],
       "dailyDeceasedStartDate": "2020-03-10",
-      "dailyRecoveredCumulative": [],
+      "dailyRecoveredCumulative": [
+        0
+      ],
       "dailyRecoveredStartDate": "2021-06-18",
       "deceased": 0,
       "recovered": 0,
@@ -5729,7 +5731,7 @@
       "yesterdayDeceased": 0,
       "dailyActiveStartDate": "2021-06-18",
       "dailyActive": [
-        null
+        989
       ],
       "reinfected": 0,
       "deaths": 0,
@@ -59330,5 +59332,5 @@
       "recoveredCumulativeAvg7d": 58262
     }
   ],
-  "updated": "2021-06-18T21:04:01+08:00"
+  "updated": "2021-06-18T21:39:44+08:00"
 }
