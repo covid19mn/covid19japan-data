@@ -14361,7 +14361,7 @@
       "name": "Undurkhaan"
     },
     {
-      "confirmed": 587,
+      "confirmed": 590,
       "dailyConfirmedCount": [
         0,
         0,
@@ -14829,10 +14829,10 @@
         29,
         3,
         30,
-        30
+        33
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 30,
+      "newlyConfirmed": 33,
       "yesterdayConfirmed": 30,
       "dailyDeceasedCount": [
         0,
@@ -15310,7 +15310,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 587,
+      "active": 590,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -44117,14 +44117,14 @@
       "name": "Khentii"
     },
     {
-      "confirmed": 587,
-      "newlyConfirmed": 30,
+      "confirmed": 590,
+      "newlyConfirmed": 33,
       "yesterdayConfirmed": 30,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 587,
+      "active": 590,
       "dailyConfirmedCount": [
         0,
         0,
@@ -44592,7 +44592,7 @@
         29,
         3,
         30,
-        30
+        33
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -59432,25 +59432,25 @@
       "recoveredCumulativeAvg7d": 58262
     },
     {
-      "confirmed": 2632,
-      "confirmedCumulative": 91148,
+      "confirmed": 2635,
+      "confirmedCumulative": 91151,
       "deceased": 14,
       "deceasedCumulative": 425,
       "reportedDeceased": 14,
       "reportedDeceasedCumulative": 425,
       "recovered": 747,
       "recoveredCumulative": 62472,
-      "critical": 0,
-      "criticalCumulative": 1136,
+      "critical": 171,
+      "criticalCumulative": 1307,
       "tested": 12865,
       "testedCumulative": 5395878,
-      "active": 1871,
-      "activeCumulative": 28251,
+      "active": 1874,
+      "activeCumulative": 28254,
       "date": "2021-06-19",
       "deaths": 14,
-      "confirmedAvg3d": 2673,
-      "confirmedAvg7d": 2464,
-      "confirmedCumulativeAvg3d": 88478,
+      "confirmedAvg3d": 2674,
+      "confirmedAvg7d": 2465,
+      "confirmedCumulativeAvg3d": 88479,
       "confirmedCumulativeAvg7d": 83389,
       "deceasedAvg3d": 10,
       "deceasedAvg7d": 9,
@@ -59466,5 +59466,5 @@
       "recoveredCumulativeAvg7d": 59122
     }
   ],
-  "updated": "2021-06-19T11:38:55+08:00"
+  "updated": "2021-06-19T11:57:53+08:00"
 }
