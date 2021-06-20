@@ -5741,7 +5741,9 @@
         0
       ],
       "dailyDeceasedStartDate": "2020-03-10",
-      "dailyRecoveredCumulative": [],
+      "dailyRecoveredCumulative": [
+        0
+      ],
       "dailyRecoveredStartDate": "2021-06-20",
       "deceased": 0,
       "recovered": 0,
@@ -5753,7 +5755,7 @@
       "yesterdayDeceased": 0,
       "dailyActiveStartDate": "2021-06-20",
       "dailyActive": [
-        null
+        1124
       ],
       "reinfected": 0,
       "deaths": 0,
@@ -59574,14 +59576,14 @@
       "deceasedCumulative": 436,
       "reportedDeceased": 11,
       "reportedDeceasedCumulative": 436,
-      "recovered": 0,
-      "recoveredCumulative": 62472,
+      "recovered": 641,
+      "recoveredCumulative": 63113,
       "critical": 37,
       "criticalCumulative": 1344,
-      "tested": 0,
-      "testedCumulative": 5395878,
-      "active": 2389,
-      "activeCumulative": 30643,
+      "tested": 10425,
+      "testedCumulative": 5406303,
+      "active": 1748,
+      "activeCumulative": 30002,
       "date": "2021-06-20",
       "deaths": 11,
       "confirmedAvg3d": 2593,
@@ -59596,11 +59598,11 @@
       "reportedDeceasedAvg7d": 9,
       "reportedDeceasedCumulativeAvg3d": 424,
       "reportedDeceasedCumulativeAvg7d": 403,
-      "recoveredAvg3d": 1084,
-      "recoveredAvg7d": 789,
-      "recoveredCumulativeAvg3d": 62223,
-      "recoveredCumulativeAvg7d": 59912
+      "recoveredAvg3d": 1297,
+      "recoveredAvg7d": 880,
+      "recoveredCumulativeAvg3d": 62436,
+      "recoveredCumulativeAvg7d": 60003
     }
   ],
-  "updated": "2021-06-20T11:38:01+08:00"
+  "updated": "2021-06-20T11:56:54+08:00"
 }
