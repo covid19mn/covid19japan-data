@@ -1,7 +1,7 @@
 {
   "prefectures": [
     {
-      "confirmed": 75080,
+      "confirmed": 76259,
       "dailyConfirmedCount": [
         0,
         0,
@@ -473,10 +473,10 @@
         1557,
         1404,
         1289,
-        0
+        1179
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1179,
       "yesterdayConfirmed": 1289,
       "dailyDeceasedCount": [
         0,
@@ -958,7 +958,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 74641,
+      "active": 75820,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 12,
@@ -17381,7 +17381,7 @@
       "name": "Bulgan"
     },
     {
-      "confirmed": 552,
+      "confirmed": 553,
       "dailyConfirmedCount": [
         1,
         0,
@@ -17853,10 +17853,10 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
         0,
@@ -18338,7 +18338,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 552,
+      "active": 553,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -25102,7 +25102,7 @@
       "name": "Choir"
     },
     {
-      "confirmed": 188,
+      "confirmed": 197,
       "dailyConfirmedCount": [
         0,
         0,
@@ -25574,10 +25574,10 @@
         0,
         0,
         8,
-        0
+        9
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 9,
       "yesterdayConfirmed": 8,
       "dailyDeceasedCount": [
         0,
@@ -26059,7 +26059,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 188,
+      "active": 197,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -38614,14 +38614,14 @@
   ],
   "regions": [
     {
-      "confirmed": 79975,
-      "newlyConfirmed": 0,
+      "confirmed": 81154,
+      "newlyConfirmed": 1179,
       "yesterdayConfirmed": 1289,
       "deceased": 458,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 79517,
+      "active": 80696,
       "dailyConfirmedCount": [
         0,
         0,
@@ -39093,7 +39093,7 @@
         1557,
         1404,
         1289,
-        0
+        1179
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -43507,14 +43507,14 @@
       "name": "Zavkhan"
     },
     {
-      "confirmed": 788,
-      "newlyConfirmed": 0,
+      "confirmed": 798,
+      "newlyConfirmed": 10,
       "yesterdayConfirmed": 8,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 788,
+      "active": 798,
       "dailyConfirmedCount": [
         1,
         0,
@@ -43986,7 +43986,7 @@
         0,
         0,
         8,
-        0
+        10
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -59974,7 +59974,41 @@
       "recoveredAvg7d": 933,
       "recoveredCumulativeAvg3d": 63645,
       "recoveredCumulativeAvg7d": 61857
+    },
+    {
+      "confirmed": 1189,
+      "confirmedCumulative": 99239,
+      "deceased": 0,
+      "deceasedCumulative": 459,
+      "reportedDeceased": 0,
+      "reportedDeceasedCumulative": 459,
+      "recovered": 0,
+      "recoveredCumulative": 64354,
+      "critical": 0,
+      "criticalCumulative": 1361,
+      "tested": 0,
+      "testedCumulative": 5429363,
+      "active": 1189,
+      "activeCumulative": 34426,
+      "date": "2021-06-23",
+      "deaths": 0,
+      "confirmedAvg3d": 1896,
+      "confirmedAvg7d": 2301,
+      "confirmedCumulativeAvg3d": 97702,
+      "confirmedCumulativeAvg7d": 93156,
+      "deceasedAvg3d": 7,
+      "deceasedAvg7d": 9,
+      "deceasedCumulativeAvg3d": 455,
+      "deceasedCumulativeAvg7d": 433,
+      "reportedDeceasedAvg3d": 7,
+      "reportedDeceasedAvg7d": 9,
+      "reportedDeceasedCumulativeAvg3d": 455,
+      "reportedDeceasedCumulativeAvg7d": 433,
+      "recoveredAvg3d": 413,
+      "recoveredAvg7d": 815,
+      "recoveredCumulativeAvg3d": 64058,
+      "recoveredCumulativeAvg7d": 62672
     }
   ],
-  "updated": "2021-06-23T11:33:54+08:00"
+  "updated": "2021-06-23T11:51:32+08:00"
 }
