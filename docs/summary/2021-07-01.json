@@ -1,7 +1,7 @@
 {
   "prefectures": [
     {
-      "confirmed": 84980,
+      "confirmed": 86417,
       "dailyConfirmedCount": [
         0,
         0,
@@ -481,10 +481,10 @@
         983,
         934,
         1345,
-        0
+        1437
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1437,
       "yesterdayConfirmed": 1345,
       "dailyDeceasedCount": [
         0,
@@ -974,7 +974,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 84437,
+      "active": 85874,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 15,
@@ -4892,9 +4892,7 @@
         0
       ],
       "dailyDeceasedStartDate": "2020-03-10",
-      "dailyRecoveredCumulative": [
-        0
-      ],
+      "dailyRecoveredCumulative": [],
       "dailyRecoveredStartDate": "2021-07-01",
       "deceased": 0,
       "recovered": 0,
@@ -4906,7 +4904,7 @@
       "yesterdayDeceased": 0,
       "dailyActiveStartDate": "2021-07-01",
       "dailyActive": [
-        2097
+        null
       ],
       "reinfected": 0,
       "deaths": 0,
@@ -39256,14 +39254,14 @@
   ],
   "regions": [
     {
-      "confirmed": 89875,
-      "newlyConfirmed": 0,
+      "confirmed": 91312,
+      "newlyConfirmed": 1437,
       "yesterdayConfirmed": 1345,
       "deceased": 562,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 89313,
+      "active": 90750,
       "dailyConfirmedCount": [
         0,
         0,
@@ -39743,7 +39741,7 @@
         983,
         934,
         1345,
-        0
+        1437
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -61064,7 +61062,41 @@
       "recoveredAvg7d": 1587,
       "recoveredCumulativeAvg3d": 73758,
       "recoveredCumulativeAvg7d": 70595
+    },
+    {
+      "confirmed": 1437,
+      "confirmedCumulative": 116915,
+      "deceased": 0,
+      "deceasedCumulative": 563,
+      "reportedDeceased": 0,
+      "reportedDeceasedCumulative": 563,
+      "recovered": 0,
+      "recoveredCumulative": 76654,
+      "critical": 0,
+      "criticalCumulative": 1476,
+      "tested": 0,
+      "testedCumulative": 5519150,
+      "active": 1437,
+      "activeCumulative": 39698,
+      "date": "2021-07-01",
+      "deaths": 0,
+      "confirmedAvg3d": 1803,
+      "confirmedAvg7d": 2040,
+      "confirmedCumulativeAvg3d": 115208,
+      "confirmedCumulativeAvg7d": 111283,
+      "deceasedAvg3d": 10,
+      "deceasedAvg7d": 11,
+      "deceasedCumulativeAvg3d": 558,
+      "deceasedCumulativeAvg7d": 531,
+      "reportedDeceasedAvg3d": 10,
+      "reportedDeceasedAvg7d": 11,
+      "reportedDeceasedCumulativeAvg3d": 558,
+      "reportedDeceasedCumulativeAvg7d": 531,
+      "recoveredAvg3d": 1954,
+      "recoveredAvg7d": 1436,
+      "recoveredCumulativeAvg3d": 75712,
+      "recoveredCumulativeAvg7d": 72031
     }
   ],
-  "updated": "2021-07-01T10:47:23+08:00"
+  "updated": "2021-07-01T11:14:47+08:00"
 }
