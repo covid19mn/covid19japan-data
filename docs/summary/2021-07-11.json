@@ -1,7 +1,7 @@
 {
   "prefectures": [
     {
-      "confirmed": 96711,
+      "confirmed": 97584,
       "dailyConfirmedCount": [
         0,
         0,
@@ -491,10 +491,10 @@
         752,
         1367,
         1030,
-        0
+        873
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 873,
       "yesterdayConfirmed": 1030,
       "dailyDeceasedCount": [
         0,
@@ -985,20 +985,20 @@
         9,
         5,
         13,
-        0
+        11
       ],
       "dailyDeceasedStartDate": "2020-03-10",
       "dailyRecoveredCumulative": [],
       "dailyRecoveredStartDate": null,
-      "deceased": 643,
+      "deceased": 654,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 96068,
+      "active": 96930,
       "confirmedByCity": {},
-      "newlyDeceased": 0,
+      "newlyDeceased": 11,
       "yesterdayDeceased": 13,
-      "deaths": 643,
+      "deaths": 654,
       "name": "Unknown"
     },
     {
@@ -22034,7 +22034,7 @@
       "name": "Khan-Uul"
     },
     {
-      "confirmed": 560,
+      "confirmed": 561,
       "dailyConfirmedCount": [
         1,
         0,
@@ -22524,10 +22524,10 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
         0,
@@ -23027,7 +23027,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 560,
+      "active": 561,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -40054,14 +40054,14 @@
   ],
   "regions": [
     {
-      "confirmed": 101606,
-      "newlyConfirmed": 0,
+      "confirmed": 102479,
+      "newlyConfirmed": 873,
       "yesterdayConfirmed": 1030,
-      "deceased": 662,
+      "deceased": 673,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 100944,
+      "active": 101806,
       "dailyConfirmedCount": [
         0,
         0,
@@ -40551,7 +40551,7 @@
         752,
         1367,
         1030,
-        0
+        873
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -48669,14 +48669,14 @@
       "name": "Dundgovi"
     },
     {
-      "confirmed": 841,
-      "newlyConfirmed": 0,
+      "confirmed": 842,
+      "newlyConfirmed": 1,
       "yesterdayConfirmed": 5,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 841,
+      "active": 842,
       "dailyConfirmedCount": [
         1,
         0,
@@ -49166,7 +49166,7 @@
         0,
         1,
         5,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -62422,7 +62422,41 @@
       "recoveredAvg7d": 2425,
       "recoveredCumulativeAvg3d": 96754,
       "recoveredCumulativeAvg7d": 92034
+    },
+    {
+      "confirmed": 874,
+      "confirmedCumulative": 136927,
+      "deceased": 11,
+      "deceasedCumulative": 674,
+      "reportedDeceased": 11,
+      "reportedDeceasedCumulative": 674,
+      "recovered": 3756,
+      "recoveredCumulative": 103666,
+      "critical": 0,
+      "criticalCumulative": 1390,
+      "tested": 0,
+      "testedCumulative": 5616009,
+      "active": -2893,
+      "activeCumulative": 32587,
+      "date": "2021-07-11",
+      "deaths": 11,
+      "confirmedAvg3d": 1655,
+      "confirmedAvg7d": 1666,
+      "confirmedCumulativeAvg3d": 135750,
+      "confirmedCumulativeAvg7d": 132132,
+      "deceasedAvg3d": 9,
+      "deceasedAvg7d": 8,
+      "deceasedCumulativeAvg3d": 662,
+      "deceasedCumulativeAvg7d": 646,
+      "reportedDeceasedAvg3d": 9,
+      "reportedDeceasedAvg7d": 8,
+      "reportedDeceasedCumulativeAvg3d": 662,
+      "reportedDeceasedCumulativeAvg7d": 646,
+      "recoveredAvg3d": 3275,
+      "recoveredAvg7d": 2692,
+      "recoveredCumulativeAvg3d": 100029,
+      "recoveredCumulativeAvg7d": 94727
     }
   ],
-  "updated": "2021-07-11T11:34:51+08:00"
+  "updated": "2021-07-11T11:51:30+08:00"
 }
