@@ -19107,7 +19107,7 @@
       "name": "Songinokhairkhan"
     },
     {
-      "confirmed": 850,
+      "confirmed": 897,
       "dailyConfirmedCount": [
         0,
         0,
@@ -19598,12 +19598,12 @@
         4,
         7,
         15,
-        0,
+        47,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
-      "yesterdayConfirmed": 0,
+      "yesterdayConfirmed": 47,
       "dailyDeceasedCount": [
         0,
         0,
@@ -20104,7 +20104,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 850,
+      "active": 897,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -28152,7 +28152,7 @@
       "name": "HUSUT"
     },
     {
-      "confirmed": 98,
+      "confirmed": 51,
       "dailyConfirmedCount": [
         0,
         0,
@@ -28643,12 +28643,12 @@
         0,
         0,
         0,
-        47,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
-      "yesterdayConfirmed": 47,
+      "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
         0,
         0,
@@ -29149,7 +29149,7 @@
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 98,
+      "active": 51,
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
@@ -48863,14 +48863,14 @@
       "name": "Dundgovi"
     },
     {
-      "confirmed": 850,
+      "confirmed": 897,
       "newlyConfirmed": 0,
-      "yesterdayConfirmed": 0,
+      "yesterdayConfirmed": 47,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 850,
+      "active": 897,
       "dailyConfirmedCount": [
         0,
         0,
@@ -49361,7 +49361,7 @@
         4,
         7,
         15,
-        0,
+        47,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
@@ -50897,14 +50897,14 @@
       "name": "Bayan-Ulgii"
     },
     {
-      "confirmed": 121,
+      "confirmed": 74,
       "newlyConfirmed": 0,
-      "yesterdayConfirmed": 47,
+      "yesterdayConfirmed": 0,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 121,
+      "active": 74,
       "dailyConfirmedCount": [
         0,
         0,
@@ -51395,7 +51395,7 @@
         0,
         0,
         0,
-        47,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
@@ -62696,5 +62696,5 @@
       "recoveredCumulativeAvg7d": 97638
     }
   ],
-  "updated": "2021-07-13T10:55:47+08:00"
+  "updated": "2021-07-13T11:14:38+08:00"
 }
