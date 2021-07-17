@@ -1,7 +1,7 @@
 {
   "prefectures": [
     {
-      "confirmed": 101226,
+      "confirmed": 101872,
       "dailyConfirmedCount": [
         0,
         0,
@@ -497,10 +497,10 @@
         603,
         855,
         769,
-        0
+        646
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 646,
       "yesterdayConfirmed": 769,
       "dailyDeceasedCount": [
         0,
@@ -997,20 +997,20 @@
         4,
         4,
         9,
-        0
+        10
       ],
       "dailyDeceasedStartDate": "2020-03-10",
       "dailyRecoveredCumulative": [],
       "dailyRecoveredStartDate": null,
-      "deceased": 696,
+      "deceased": 706,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 100530,
+      "active": 101166,
       "confirmedByCity": {},
-      "newlyDeceased": 0,
+      "newlyDeceased": 10,
       "yesterdayDeceased": 9,
-      "deaths": 696,
+      "deaths": 706,
       "name": "Unknown"
     },
     {
@@ -41547,14 +41547,14 @@
   ],
   "regions": [
     {
-      "confirmed": 106121,
-      "newlyConfirmed": 0,
+      "confirmed": 106767,
+      "newlyConfirmed": 646,
       "yesterdayConfirmed": 769,
-      "deceased": 715,
+      "deceased": 725,
       "recovered": 0,
       "critical": 0,
       "tested": 0,
-      "active": 105406,
+      "active": 106042,
       "dailyConfirmedCount": [
         0,
         0,
@@ -42050,7 +42050,7 @@
         603,
         855,
         769,
-        0
+        646
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -64251,7 +64251,41 @@
       "recoveredAvg7d": 3634,
       "recoveredCumulativeAvg3d": 118349,
       "recoveredCumulativeAvg7d": 111030
+    },
+    {
+      "confirmed": 646,
+      "confirmedCumulative": 145138,
+      "deceased": 10,
+      "deceasedCumulative": 726,
+      "reportedDeceased": 10,
+      "reportedDeceasedCumulative": 726,
+      "recovered": 3929,
+      "recoveredCumulative": 125882,
+      "critical": -40,
+      "criticalCumulative": 1209,
+      "tested": 0,
+      "testedCumulative": 5616009,
+      "active": -3293,
+      "activeCumulative": 18530,
+      "date": "2021-07-17",
+      "deaths": 10,
+      "confirmedAvg3d": 1149,
+      "confirmedAvg7d": 1297,
+      "confirmedCumulativeAvg3d": 144252,
+      "confirmedCumulativeAvg7d": 141721,
+      "deceasedAvg3d": 7,
+      "deceasedAvg7d": 7,
+      "deceasedCumulativeAvg3d": 716,
+      "deceasedCumulativeAvg7d": 703,
+      "reportedDeceasedAvg3d": 7,
+      "reportedDeceasedAvg7d": 7,
+      "reportedDeceasedCumulativeAvg3d": 716,
+      "reportedDeceasedCumulativeAvg7d": 703,
+      "recoveredAvg3d": 3670,
+      "recoveredAvg7d": 3710,
+      "recoveredCumulativeAvg3d": 122019,
+      "recoveredCumulativeAvg7d": 114740
     }
   ],
-  "updated": "2021-07-17T13:27:03+08:00"
+  "updated": "2021-07-17T13:36:09+08:00"
 }
