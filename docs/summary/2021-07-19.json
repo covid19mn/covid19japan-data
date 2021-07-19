@@ -498,11 +498,12 @@
         855,
         769,
         646,
-        786
+        786,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 786,
-      "yesterdayConfirmed": 646,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 786,
       "dailyDeceasedCount": [
         0,
         0,
@@ -999,7 +1000,8 @@
         4,
         9,
         10,
-        8
+        8,
+        0
       ],
       "dailyDeceasedStartDate": "2020-03-10",
       "dailyRecoveredCumulative": [],
@@ -1010,8 +1012,8 @@
       "tested": 0,
       "active": 101944,
       "confirmedByCity": {},
-      "newlyDeceased": 8,
-      "yesterdayDeceased": 10,
+      "newlyDeceased": 0,
+      "yesterdayDeceased": 8,
       "deaths": 714,
       "name": "Unknown"
     },
@@ -1513,12 +1515,14 @@
         50,
         46,
         45,
-        86
+        86,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 86,
-      "yesterdayConfirmed": 45,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 86,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -2528,12 +2532,14 @@
         32,
         108,
         49,
-        99
+        99,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 99,
-      "yesterdayConfirmed": 49,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 99,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -3543,12 +3549,14 @@
         9,
         21,
         15,
-        13
+        13,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 13,
-      "yesterdayConfirmed": 15,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 13,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -4558,12 +4566,14 @@
         37,
         30,
         35,
-        49
+        49,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 49,
-      "yesterdayConfirmed": 35,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 49,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -5063,7 +5073,7 @@
       ],
       "dailyDeceasedStartDate": "2020-03-10",
       "dailyRecoveredCumulative": [],
-      "dailyRecoveredStartDate": "2021-07-18",
+      "dailyRecoveredStartDate": "2021-07-19",
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -5072,7 +5082,7 @@
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
-      "dailyActiveStartDate": "2021-07-18",
+      "dailyActiveStartDate": "2021-07-19",
       "dailyActive": [
         null
       ],
@@ -5578,12 +5588,14 @@
         46,
         52,
         59,
-        30
+        30,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 30,
-      "yesterdayConfirmed": 59,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 30,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -6593,12 +6605,14 @@
         5,
         21,
         70,
-        26
+        26,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 26,
-      "yesterdayConfirmed": 70,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 26,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -7608,11 +7622,12 @@
         52,
         40,
         24,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
-      "yesterdayConfirmed": 24,
+      "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
         0,
         0,
@@ -7886,6 +7901,7 @@
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -8623,12 +8639,14 @@
         22,
         34,
         32,
-        38
+        38,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 38,
-      "yesterdayConfirmed": 32,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 38,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -9638,12 +9656,14 @@
         30,
         2,
         15,
-        26
+        26,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 26,
-      "yesterdayConfirmed": 15,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 26,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -10654,12 +10674,14 @@
         109,
         49,
         42,
-        90
+        90,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 90,
-      "yesterdayConfirmed": 42,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 90,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -11669,12 +11691,14 @@
         11,
         3,
         41,
-        17
+        17,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 17,
-      "yesterdayConfirmed": 41,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 17,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -12684,12 +12708,14 @@
         0,
         24,
         0,
-        38
+        38,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 38,
-      "yesterdayConfirmed": 0,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 38,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -13699,6 +13725,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
@@ -14084,6 +14111,7 @@
         0,
         0,
         2,
+        0,
         0,
         0,
         0,
@@ -14714,12 +14742,14 @@
         32,
         38,
         38,
-        27
+        27,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 27,
-      "yesterdayConfirmed": 38,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 27,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -15729,12 +15759,14 @@
         18,
         18,
         10,
-        11
+        11,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 11,
-      "yesterdayConfirmed": 10,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 11,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -16744,12 +16776,14 @@
         11,
         11,
         16,
-        16
+        16,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 16,
+      "newlyConfirmed": 0,
       "yesterdayConfirmed": 16,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -17249,7 +17283,7 @@
       ],
       "dailyDeceasedStartDate": "2020-03-10",
       "dailyRecoveredCumulative": [],
-      "dailyRecoveredStartDate": "2021-07-18",
+      "dailyRecoveredStartDate": "2021-07-19",
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -17258,7 +17292,7 @@
       "confirmedByCity": {},
       "newlyDeceased": 0,
       "yesterdayDeceased": 0,
-      "dailyActiveStartDate": "2021-07-18",
+      "dailyActiveStartDate": "2021-07-19",
       "dailyActive": [
         null
       ],
@@ -17764,12 +17798,14 @@
         6,
         10,
         18,
-        10
+        10,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 10,
-      "yesterdayConfirmed": 18,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 10,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -18779,12 +18815,14 @@
         11,
         19,
         14,
-        8
+        8,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 8,
-      "yesterdayConfirmed": 14,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 8,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -19794,12 +19832,14 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -20809,6 +20849,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
@@ -21189,6 +21230,7 @@
         0,
         0,
         3,
+        0,
         0,
         0,
         0,
@@ -21824,6 +21866,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
@@ -22202,6 +22245,7 @@
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -22839,12 +22883,14 @@
         34,
         17,
         46,
-        37
+        37,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 37,
-      "yesterdayConfirmed": 46,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 37,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -23854,12 +23900,14 @@
         13,
         14,
         16,
-        14
+        14,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 14,
-      "yesterdayConfirmed": 16,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 14,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -24869,12 +24917,14 @@
         0,
         0,
         3,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
-      "yesterdayConfirmed": 3,
+      "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -25884,12 +25934,14 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -26899,12 +26951,14 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -27914,12 +27968,14 @@
         0,
         0,
         2,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
-      "yesterdayConfirmed": 2,
+      "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -28929,12 +28985,14 @@
         48,
         25,
         45,
-        36
+        36,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 36,
-      "yesterdayConfirmed": 45,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 36,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -29944,12 +30002,14 @@
         8,
         13,
         14,
-        9
+        9,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
-      "newlyConfirmed": 9,
-      "yesterdayConfirmed": 14,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 9,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -30959,12 +31019,14 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -31974,12 +32036,14 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -32989,12 +33053,14 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -34004,12 +34070,14 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -35019,12 +35087,14 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -36034,12 +36104,14 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -37049,12 +37121,14 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -38064,12 +38138,14 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -39079,12 +39155,14 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -40094,12 +40172,14 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -41109,12 +41189,14 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "newlyConfirmed": 0,
       "yesterdayConfirmed": 0,
       "dailyDeceasedCount": [
+        0,
         0,
         0,
         0,
@@ -41630,8 +41712,8 @@
   "regions": [
     {
       "confirmed": 107553,
-      "newlyConfirmed": 786,
-      "yesterdayConfirmed": 646,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 786,
       "deceased": 733,
       "recovered": 0,
       "critical": 0,
@@ -42133,7 +42215,8 @@
         855,
         769,
         646,
-        786
+        786,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -42152,8 +42235,8 @@
     },
     {
       "confirmed": 4074,
-      "newlyConfirmed": 86,
-      "yesterdayConfirmed": 45,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 86,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -42655,7 +42738,8 @@
         50,
         46,
         45,
-        86
+        86,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -42665,8 +42749,8 @@
     },
     {
       "confirmed": 3640,
-      "newlyConfirmed": 99,
-      "yesterdayConfirmed": 49,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 99,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -43168,7 +43252,8 @@
         32,
         108,
         49,
-        99
+        99,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -43180,8 +43265,8 @@
     },
     {
       "confirmed": 3472,
-      "newlyConfirmed": 13,
-      "yesterdayConfirmed": 15,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 13,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -43683,7 +43768,8 @@
         9,
         21,
         15,
-        13
+        13,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -43693,8 +43779,8 @@
     },
     {
       "confirmed": 3297,
-      "newlyConfirmed": 49,
-      "yesterdayConfirmed": 35,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 49,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -44196,7 +44282,8 @@
         37,
         30,
         35,
-        49
+        49,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -44206,8 +44293,8 @@
     },
     {
       "confirmed": 2760,
-      "newlyConfirmed": 30,
-      "yesterdayConfirmed": 59,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 30,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -44709,7 +44796,8 @@
         46,
         52,
         59,
-        30
+        30,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -44719,8 +44807,8 @@
     },
     {
       "confirmed": 2355,
-      "newlyConfirmed": 26,
-      "yesterdayConfirmed": 70,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 26,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -45222,7 +45310,8 @@
         5,
         21,
         70,
-        26
+        26,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -45233,7 +45322,7 @@
     {
       "confirmed": 2262,
       "newlyConfirmed": 0,
-      "yesterdayConfirmed": 24,
+      "yesterdayConfirmed": 0,
       "deceased": 1,
       "recovered": 0,
       "critical": 0,
@@ -45735,6 +45824,7 @@
         52,
         40,
         24,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
@@ -45747,8 +45837,8 @@
     },
     {
       "confirmed": 2110,
-      "newlyConfirmed": 38,
-      "yesterdayConfirmed": 32,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 38,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -46250,7 +46340,8 @@
         22,
         34,
         32,
-        38
+        38,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -46260,8 +46351,8 @@
     },
     {
       "confirmed": 1798,
-      "newlyConfirmed": 26,
-      "yesterdayConfirmed": 15,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 26,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -46763,7 +46854,8 @@
         30,
         2,
         15,
-        26
+        26,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -46773,8 +46865,8 @@
     },
     {
       "confirmed": 1762,
-      "newlyConfirmed": 90,
-      "yesterdayConfirmed": 42,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 90,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -47276,7 +47368,8 @@
         109,
         49,
         42,
-        90
+        90,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -47286,8 +47379,8 @@
     },
     {
       "confirmed": 1682,
-      "newlyConfirmed": 17,
-      "yesterdayConfirmed": 41,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 17,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -47789,7 +47882,8 @@
         11,
         3,
         41,
-        17
+        17,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -47799,8 +47893,8 @@
     },
     {
       "confirmed": 1618,
-      "newlyConfirmed": 38,
-      "yesterdayConfirmed": 0,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 38,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -48302,7 +48396,8 @@
         0,
         24,
         0,
-        38
+        38,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -48312,8 +48407,8 @@
     },
     {
       "confirmed": 1551,
-      "newlyConfirmed": 27,
-      "yesterdayConfirmed": 38,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 27,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -48815,7 +48910,8 @@
         32,
         38,
         38,
-        27
+        27,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -48825,8 +48921,8 @@
     },
     {
       "confirmed": 1547,
-      "newlyConfirmed": 11,
-      "yesterdayConfirmed": 10,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 11,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -49328,7 +49424,8 @@
         18,
         18,
         10,
-        11
+        11,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -49338,7 +49435,7 @@
     },
     {
       "confirmed": 1206,
-      "newlyConfirmed": 16,
+      "newlyConfirmed": 0,
       "yesterdayConfirmed": 16,
       "deceased": 0,
       "recovered": 0,
@@ -49841,7 +49938,8 @@
         11,
         11,
         16,
-        16
+        16,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -49851,8 +49949,8 @@
     },
     {
       "confirmed": 1113,
-      "newlyConfirmed": 10,
-      "yesterdayConfirmed": 18,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 10,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -50354,7 +50452,8 @@
         6,
         10,
         18,
-        10
+        10,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -50364,8 +50463,8 @@
     },
     {
       "confirmed": 999,
-      "newlyConfirmed": 8,
-      "yesterdayConfirmed": 14,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 8,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -50867,7 +50966,8 @@
         11,
         19,
         14,
-        8
+        8,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -50878,7 +50978,7 @@
     {
       "confirmed": 848,
       "newlyConfirmed": 0,
-      "yesterdayConfirmed": 5,
+      "yesterdayConfirmed": 0,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -51380,6 +51480,7 @@
         0,
         0,
         5,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
@@ -51392,8 +51493,8 @@
     },
     {
       "confirmed": 712,
-      "newlyConfirmed": 37,
-      "yesterdayConfirmed": 46,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 37,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -51895,7 +51996,8 @@
         34,
         17,
         46,
-        37
+        37,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -51905,8 +52007,8 @@
     },
     {
       "confirmed": 622,
-      "newlyConfirmed": 14,
-      "yesterdayConfirmed": 16,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 14,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -52408,7 +52510,8 @@
         13,
         14,
         16,
-        14
+        14,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -52418,8 +52521,8 @@
     },
     {
       "confirmed": 118,
-      "newlyConfirmed": 9,
-      "yesterdayConfirmed": 14,
+      "newlyConfirmed": 0,
+      "yesterdayConfirmed": 9,
       "deceased": 0,
       "recovered": 0,
       "critical": 0,
@@ -52921,7 +53024,8 @@
         8,
         13,
         14,
-        9
+        9,
+        0
       ],
       "dailyConfirmedStartDate": "2020-03-10",
       "prefectures": [
@@ -64425,5 +64529,5 @@
       "recoveredCumulativeAvg7d": 118590
     }
   ],
-  "updated": "2021-07-19T07:51:08+08:00"
+  "updated": "2021-07-19T08:41:38+08:00"
 }
